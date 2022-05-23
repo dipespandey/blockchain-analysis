@@ -31,8 +31,5 @@ def get_pair_info(factory_contract):
                 break
 
 
-# def get_token_from_id(id):
-#     w3.eth.acc
-
 factory_contract = get_factory_contract('0xcA143Ce32Fe78f1f7019d7d551a6402fC5350c73')
 get_pair_info(factory_contract)

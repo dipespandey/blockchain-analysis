@@ -37,7 +37,6 @@ eth-rlp==0.2.1
 eth-typing==2.2.2
 eth-utils==1.10.0
 ethereum-dasm==0.1.4
-ethereum-etl==1.7.3
 evmdasm==0.1.8
 frozenlist==1.2.0
 gevent==21.8.0

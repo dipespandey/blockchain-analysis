@@ -1,16 +1,16 @@
-# blockchain-analysis
+# Crypto Exchange Compare
 
-Use the public blockchain data to infer insights
+This repo contains the code used for the thesis: 
+
+These experiments are performed:
+1. Watch a smart contract(Uniswap V2 and Pancakeswap)
+  a. save the transactions/pairs/tokens into database
+2. Use third party tools to get blockchain data
+  a. The Graph
+3. Scrape Google Scholar to perform Systematic Literature Review
+4. Get data from Binance API
+5. Scrape prices from Uniswap and Pancakeswap official web interface
 
 
-## Schema of the dataset
-** is taken from [https://github.com/blockchain-etl/ethereum-etl/edit/develop/docs/schema.md](https://github.com/blockchain-etl/ethereum-etl/edit/develop/docs/schema.md)
-
-
-### The following files are used
-
-1. analysis/data_sources/pricing.py -> get the pricing data from Binance and CoinPaprika API
-2. analysis/data_sources/thegraph.py -> use The Graph API to get blockchain data from subgraphs
-3. analysis/data_sources/thegraph.py -> get data by directly querying the smart contract
-4. analysis/utils.py -> get additional data by scraping the Etherscan website
-
+$ docker build -t exchange .
+docker run -e MYSQL_ROOT_PASSWORD=pw -p 3306:3306 exchange
