@@ -1,0 +1,2370 @@
+{
+  "data": {
+    "pancakeDayDatas": [
+      {
+        "dailyVolumeUSD": "135431767.7143358342407158106904",
+        "date": 1653091200,
+        "totalLiquidityUSD": "4140871536.651674671545943903235",
+        "totalTransactions": "676919374"
+      },
+      {
+        "dailyVolumeUSD": "583083270.008434069021381526946",
+        "date": 1653004800,
+        "totalLiquidityUSD": "4102516727.339579164040966874887",
+        "totalTransactions": "676562631"
+      },
+      {
+        "dailyVolumeUSD": "443234509.318733347371044596229",
+        "date": 1652918400,
+        "totalLiquidityUSD": "4125549460.87185433306396012204",
+        "totalTransactions": "675368392"
+      },
+      {
+        "dailyVolumeUSD": "501695384.5406635529102165525805",
+        "date": 1652832000,
+        "totalLiquidityUSD": "3937982371.09958506447161311902",
+        "totalTransactions": "674215564"
+      },
+      {
+        "dailyVolumeUSD": "464498608.7684413181751601536165",
+        "date": 1652745600,
+        "totalLiquidityUSD": "4068780889.369087364506555195596",
+        "totalTransactions": "673032262"
+      },
+      {
+        "dailyVolumeUSD": "542618794.078783067560634687429",
+        "date": 1652659200,
+        "totalLiquidityUSD": "3930901728.457297899698718000516",
+        "totalTransactions": "671772571"
+      },
+      {
+        "dailyVolumeUSD": "595538581.305820016612790850157",
+        "date": 1652572800,
+        "totalLiquidityUSD": "3971253123.148658698150415489924",
+        "totalTransactions": "670473836"
+      },
+      {
+        "dailyVolumeUSD": "780350378.410085551749265604659",
+        "date": 1652486400,
+        "totalLiquidityUSD": "3834162160.366720059899198292036",
+        "totalTransactions": "669106259"
+      },
+      {
+        "dailyVolumeUSD": "777617457.59130875358327027414",
+        "date": 1652400000,
+        "totalLiquidityUSD": "3615126064.39289419338774260139",
+        "totalTransactions": "667274940"
+      },
+      {
+        "dailyVolumeUSD": "1415409207.37793157858636474401",
+        "date": 1652313600,
+        "totalLiquidityUSD": "3389446808.75174113030738033204",
+        "totalTransactions": "665319913"
+      },
+      {
+        "dailyVolumeUSD": "1421939261.137601012574998295985",
+        "date": 1652227200,
+        "totalLiquidityUSD": "3586187816.618117104979650473887",
+        "totalTransactions": "663314929"
+      },
+      {
+        "dailyVolumeUSD": "1043168767.982575003036667414259",
+        "date": 1652140800,
+        "totalLiquidityUSD": "4138711025.854376469005176882774",
+        "totalTransactions": "661712138"
+      },
+      {
+        "dailyVolumeUSD": "1092603797.153166548793696660455",
+        "date": 1652054400,
+        "totalLiquidityUSD": "3973205785.983529249724831104916",
+        "totalTransactions": "660521913"
+      },
+      {
+        "dailyVolumeUSD": "573349363.140638871641776858688",
+        "date": 1651968000,
+        "totalLiquidityUSD": "4526327853.15893164337262539533",
+        "totalTransactions": "659256636"
+      },
+      {
+        "dailyVolumeUSD": "491130130.987550684432565394875",
+        "date": 1651881600,
+        "totalLiquidityUSD": "4635107076.65888688804126943114",
+        "totalTransactions": "658139448"
+      },
+      {
+        "dailyVolumeUSD": "434930315.236379126444893116146",
+        "date": 1651795200,
+        "totalLiquidityUSD": "4701499383.73177831816234155934",
+        "totalTransactions": "657074277"
+      },
+      {
+        "dailyVolumeUSD": "560553184.1913586912147598691986",
+        "date": 1651708800,
+        "totalLiquidityUSD": "4605277948.376817691366500019646",
+        "totalTransactions": "655989355"
+      },
+      {
+        "dailyVolumeUSD": "467750816.7430604911173980691758",
+        "date": 1651622400,
+        "totalLiquidityUSD": "4784071553.777730985776982715846",
+        "totalTransactions": "654794353"
+      },
+      {
+        "dailyVolumeUSD": "426209526.563678867267956790697",
+        "date": 1651536000,
+        "totalLiquidityUSD": "4619177178.44939711716554099205",
+        "totalTransactions": "653650851"
+      },
+      {
+        "dailyVolumeUSD": "457427646.792404001275875932752",
+        "date": 1651449600,
+        "totalLiquidityUSD": "4668218696.82944743811513767855",
+        "totalTransactions": "652555030"
+      },
+      {
+        "dailyVolumeUSD": "485371248.2191629626692841298002",
+        "date": 1651363200,
+        "totalLiquidityUSD": "4674720873.07916725283131855895",
+        "totalTransactions": "651431808"
+      },
+      {
+        "dailyVolumeUSD": "581728268.77465136502895996068",
+        "date": 1651276800,
+        "totalLiquidityUSD": "4573129450.294302931900953414926",
+        "totalTransactions": "650234634"
+      },
+      {
+        "dailyVolumeUSD": "651720634.052400899389554714155",
+        "date": 1651190400,
+        "totalLiquidityUSD": "4711327874.48555861775708934509",
+        "totalTransactions": "649023336"
+      },
+      {
+        "dailyVolumeUSD": "607783258.125751522814565405866",
+        "date": 1651104000,
+        "totalLiquidityUSD": "4900548264.24086935965736274319",
+        "totalTransactions": "647579935"
+      },
+      {
+        "dailyVolumeUSD": "479975937.753210931903758671394",
+        "date": 1651017600,
+        "totalLiquidityUSD": "4931698551.61243465622359096224",
+        "totalTransactions": "646204665"
+      },
+      {
+        "dailyVolumeUSD": "580499421.506125265818267819509",
+        "date": 1650931200,
+        "totalLiquidityUSD": "4898840249.318117588694092572675",
+        "totalTransactions": "644996503"
+      },
+      {
+        "dailyVolumeUSD": "609153910.6065533154063128719135",
+        "date": 1650844800,
+        "totalLiquidityUSD": "5072357303.682739147050984403186",
+        "totalTransactions": "643592047"
+      },
+      {
+        "dailyVolumeUSD": "449446075.8889823159942687643676",
+        "date": 1650758400,
+        "totalLiquidityUSD": "5004725067.99260178890377487804",
+        "totalTransactions": "642180809"
+      },
+      {
+        "dailyVolumeUSD": "412138438.4615358227961306048987",
+        "date": 1650672000,
+        "totalLiquidityUSD": "5008983061.41719415518869871733",
+        "totalTransactions": "640835272"
+      },
+      {
+        "dailyVolumeUSD": "457686485.7789687375316868172263",
+        "date": 1650585600,
+        "totalLiquidityUSD": "5027587054.743530453224438890976",
+        "totalTransactions": "639575692"
+      },
+      {
+        "dailyVolumeUSD": "572873100.025355406710299855766",
+        "date": 1650499200,
+        "totalLiquidityUSD": "4997999828.21206186826255454553",
+        "totalTransactions": "638310078"
+      },
+      {
+        "dailyVolumeUSD": "565264851.767311314699323018711",
+        "date": 1650412800,
+        "totalLiquidityUSD": "5150935168.1704682671033668627",
+        "totalTransactions": "636956564"
+      },
+      {
+        "dailyVolumeUSD": "583830918.116059406733999549834",
+        "date": 1650326400,
+        "totalLiquidityUSD": "5010976489.89996212496774633056",
+        "totalTransactions": "635568545"
+      },
+      {
+        "dailyVolumeUSD": "542407380.433956570195204733251",
+        "date": 1650240000,
+        "totalLiquidityUSD": "4940575068.50957441074127099672",
+        "totalTransactions": "634278209"
+      },
+      {
+        "dailyVolumeUSD": "435138683.2390572887433048306854",
+        "date": 1650153600,
+        "totalLiquidityUSD": "4853572935.25532188699582430539",
+        "totalTransactions": "633053418"
+      },
+      {
+        "dailyVolumeUSD": "499131306.7056182645401505332174",
+        "date": 1650067200,
+        "totalLiquidityUSD": "4928758930.26872232435306450394",
+        "totalTransactions": "631965805"
+      },
+      {
+        "dailyVolumeUSD": "465110272.7850916709640326361836",
+        "date": 1649980800,
+        "totalLiquidityUSD": "4903105127.502835601025595594206",
+        "totalTransactions": "630813636"
+      },
+      {
+        "dailyVolumeUSD": "565524433.871836124637133844016",
+        "date": 1649894400,
+        "totalLiquidityUSD": "4874418433.68904537724201556354",
+        "totalTransactions": "629650454"
+      },
+      {
+        "dailyVolumeUSD": "580854330.408845613108231038276",
+        "date": 1649808000,
+        "totalLiquidityUSD": "4951772895.724733635841700049394",
+        "totalTransactions": "628456471"
+      },
+      {
+        "dailyVolumeUSD": "1134677587.258436962895058181376",
+        "date": 1649721600,
+        "totalLiquidityUSD": "4873143069.19084141246136941139",
+        "totalTransactions": "627239938"
+      },
+      {
+        "dailyVolumeUSD": "744098583.902281717528956283022",
+        "date": 1649635200,
+        "totalLiquidityUSD": "4750746975.38671306181233981532",
+        "totalTransactions": "625936315"
+      },
+      {
+        "dailyVolumeUSD": "782183388.9229380922265450100485",
+        "date": 1649548800,
+        "totalLiquidityUSD": "4931602084.33489652984703118694",
+        "totalTransactions": "624614165"
+      },
+      {
+        "dailyVolumeUSD": "729006412.312889807211049229082",
+        "date": 1649462400,
+        "totalLiquidityUSD": "4975829372.88780982765309153356",
+        "totalTransactions": "623357524"
+      },
+      {
+        "dailyVolumeUSD": "770869965.48297906389896471066",
+        "date": 1649376000,
+        "totalLiquidityUSD": "4898357965.644212681165991650324",
+        "totalTransactions": "622116943"
+      },
+      {
+        "dailyVolumeUSD": "685806565.62625894375969949595",
+        "date": 1649289600,
+        "totalLiquidityUSD": "5000277477.50619064223055319266",
+        "totalTransactions": "620766093"
+      },
+      {
+        "dailyVolumeUSD": "666067516.587329193928476909422",
+        "date": 1649203200,
+        "totalLiquidityUSD": "4861615801.68888859971113536368",
+        "totalTransactions": "619449796"
+      },
+      {
+        "dailyVolumeUSD": "606396539.456338203035974453758",
+        "date": 1649116800,
+        "totalLiquidityUSD": "5101533469.21757822022072440117",
+        "totalTransactions": "618166206"
+      },
+      {
+        "dailyVolumeUSD": "689607002.168993264422550739555",
+        "date": 1649030400,
+        "totalLiquidityUSD": "5167995980.200121630804524856466",
+        "totalTransactions": "616834339"
+      },
+      {
+        "dailyVolumeUSD": "648695347.328626869177796558806",
+        "date": 1648944000,
+        "totalLiquidityUSD": "5182971583.384412998004673687527",
+        "totalTransactions": "615379144"
+      },
+      {
+        "dailyVolumeUSD": "654967369.760080597686788265885",
+        "date": 1648857600,
+        "totalLiquidityUSD": "5073556236.35565230653292057874",
+        "totalTransactions": "614003431"
+      },
+      {
+        "dailyVolumeUSD": "843396377.397922479978160830175",
+        "date": 1648771200,
+        "totalLiquidityUSD": "5190526052.728939487743226064306",
+        "totalTransactions": "612584318"
+      },
+      {
+        "dailyVolumeUSD": "772514509.125041785676968477253",
+        "date": 1648684800,
+        "totalLiquidityUSD": "5037725603.349706402258729899116",
+        "totalTransactions": "611085207"
+      },
+      {
+        "dailyVolumeUSD": "681960606.863230601162343435826",
+        "date": 1648598400,
+        "totalLiquidityUSD": "5162370057.34222384594327710016",
+        "totalTransactions": "609539558"
+      },
+      {
+        "dailyVolumeUSD": "641100143.862799951230507879137",
+        "date": 1648512000,
+        "totalLiquidityUSD": "5073558587.73704740744872679228",
+        "totalTransactions": "608018283"
+      },
+      {
+        "dailyVolumeUSD": "649655593.899051122704341333693",
+        "date": 1648425600,
+        "totalLiquidityUSD": "5000450578.448473621884371347915",
+        "totalTransactions": "606554294"
+      },
+      {
+        "dailyVolumeUSD": "495493826.0771608294244924994634",
+        "date": 1648339200,
+        "totalLiquidityUSD": "4976964831.73579683229133134732",
+        "totalTransactions": "605020113"
+      },
+      {
+        "dailyVolumeUSD": "421852288.9401401556941306683574",
+        "date": 1648252800,
+        "totalLiquidityUSD": "4853243609.13645773832881960105",
+        "totalTransactions": "603700386"
+      },
+      {
+        "dailyVolumeUSD": "552478234.284103458041823755484",
+        "date": 1648166400,
+        "totalLiquidityUSD": "4783804272.97162041564187689021",
+        "totalTransactions": "602342566"
+      },
+      {
+        "dailyVolumeUSD": "566807853.551747728830608374228",
+        "date": 1648080000,
+        "totalLiquidityUSD": "4786270269.775121148753675627426",
+        "totalTransactions": "600917132"
+      },
+      {
+        "dailyVolumeUSD": "548268913.456585151544839601302",
+        "date": 1647993600,
+        "totalLiquidityUSD": "4702746822.45395465808359321932",
+        "totalTransactions": "599366558"
+      },
+      {
+        "dailyVolumeUSD": "579591940.025714979526151634145",
+        "date": 1647907200,
+        "totalLiquidityUSD": "4634774428.68340798416722672389",
+        "totalTransactions": "597921422"
+      },
+      {
+        "dailyVolumeUSD": "616292401.33653716400352281919",
+        "date": 1647820800,
+        "totalLiquidityUSD": "4542469559.0607203670234573909",
+        "totalTransactions": "596435969"
+      },
+      {
+        "dailyVolumeUSD": "605775274.549779171227431526502",
+        "date": 1647734400,
+        "totalLiquidityUSD": "4521589871.95340041151192550436",
+        "totalTransactions": "594936837"
+      },
+      {
+        "dailyVolumeUSD": "641858174.0891492640707109439196",
+        "date": 1647648000,
+        "totalLiquidityUSD": "4604119460.559675159359952739476",
+        "totalTransactions": "593479705"
+      },
+      {
+        "dailyVolumeUSD": "478898273.8752751017494379150916",
+        "date": 1647561600,
+        "totalLiquidityUSD": "4580708997.57198290656500080248",
+        "totalTransactions": "591961540"
+      },
+      {
+        "dailyVolumeUSD": "523651192.6318116718245216905803",
+        "date": 1647475200,
+        "totalLiquidityUSD": "4533964340.25412115056670826712",
+        "totalTransactions": "590604522"
+      },
+      {
+        "dailyVolumeUSD": "488142902.8889762075050084784825",
+        "date": 1647388800,
+        "totalLiquidityUSD": "4460843709.32503316184682004169",
+        "totalTransactions": "589227912"
+      },
+      {
+        "dailyVolumeUSD": "466918801.017522097197123543857",
+        "date": 1647302400,
+        "totalLiquidityUSD": "4344246121.300307385746020215",
+        "totalTransactions": "587881184"
+      },
+      {
+        "dailyVolumeUSD": "437923578.6356936810826331612367",
+        "date": 1647216000,
+        "totalLiquidityUSD": "4361144845.48920545884067208947",
+        "totalTransactions": "586512832"
+      },
+      {
+        "dailyVolumeUSD": "520578088.2388967447021533160497",
+        "date": 1647129600,
+        "totalLiquidityUSD": "4272364814.64837776414665312291",
+        "totalTransactions": "585183131"
+      },
+      {
+        "dailyVolumeUSD": "517427222.692365255744410123648",
+        "date": 1647043200,
+        "totalLiquidityUSD": "4364994127.90971841738921278675",
+        "totalTransactions": "583835314"
+      },
+      {
+        "dailyVolumeUSD": "429032344.746274224119134913958",
+        "date": 1646956800,
+        "totalLiquidityUSD": "4349413405.54996135739842014082",
+        "totalTransactions": "582513394"
+      },
+      {
+        "dailyVolumeUSD": "456003333.6221542165849523372265",
+        "date": 1646870400,
+        "totalLiquidityUSD": "4344336284.19479122676944095858",
+        "totalTransactions": "581217330"
+      },
+      {
+        "dailyVolumeUSD": "522619201.6225067245711620719146",
+        "date": 1646784000,
+        "totalLiquidityUSD": "4441805206.102647826649172348665",
+        "totalTransactions": "579910120"
+      },
+      {
+        "dailyVolumeUSD": "440615001.402709496615566302532",
+        "date": 1646697600,
+        "totalLiquidityUSD": "4219097172.260173104419932857733",
+        "totalTransactions": "578566922"
+      },
+      {
+        "dailyVolumeUSD": "511576198.958717921628502515241",
+        "date": 1646611200,
+        "totalLiquidityUSD": "4221702756.568457276795049184826",
+        "totalTransactions": "577245842"
+      },
+      {
+        "dailyVolumeUSD": "436532222.286090979599870567252",
+        "date": 1646524800,
+        "totalLiquidityUSD": "4199126442.460580558355942312",
+        "totalTransactions": "575890233"
+      },
+      {
+        "dailyVolumeUSD": "403962983.135939722592092675031",
+        "date": 1646438400,
+        "totalLiquidityUSD": "4280549240.04355530385457964612",
+        "totalTransactions": "574630255"
+      },
+      {
+        "dailyVolumeUSD": "513835417.1660490675605806230274",
+        "date": 1646352000,
+        "totalLiquidityUSD": "4216568375.30260639621887867809",
+        "totalTransactions": "573353622"
+      },
+      {
+        "dailyVolumeUSD": "491522792.5191036933621026205115",
+        "date": 1646265600,
+        "totalLiquidityUSD": "4409868904.50242493564465429438",
+        "totalTransactions": "571987129"
+      },
+      {
+        "dailyVolumeUSD": "523216231.4003464696852195486496",
+        "date": 1646179200,
+        "totalLiquidityUSD": "4461707940.31305619773061405605",
+        "totalTransactions": "570617820"
+      },
+      {
+        "dailyVolumeUSD": "612303068.325777004762522710609",
+        "date": 1646092800,
+        "totalLiquidityUSD": "4520303644.42894447064602554128",
+        "totalTransactions": "569292447"
+      },
+      {
+        "dailyVolumeUSD": "603811382.755496414320884784005",
+        "date": 1646006400,
+        "totalLiquidityUSD": "4528231271.754676504627820895296",
+        "totalTransactions": "567880693"
+      },
+      {
+        "dailyVolumeUSD": "533814259.2809680830109187911745",
+        "date": 1645920000,
+        "totalLiquidityUSD": "4264698141.108989270271416501638",
+        "totalTransactions": "566435240"
+      },
+      {
+        "dailyVolumeUSD": "592226348.396387927741844481555",
+        "date": 1645833600,
+        "totalLiquidityUSD": "4336865616.53389877594073434873",
+        "totalTransactions": "565177122"
+      },
+      {
+        "dailyVolumeUSD": "819000984.849723852929799839871",
+        "date": 1645747200,
+        "totalLiquidityUSD": "4346467951.99159086706413659229",
+        "totalTransactions": "563828177"
+      },
+      {
+        "dailyVolumeUSD": "879404606.779298137028820623971",
+        "date": 1645660800,
+        "totalLiquidityUSD": "4250350773.38999976030414044932",
+        "totalTransactions": "562153417"
+      },
+      {
+        "dailyVolumeUSD": "577752165.683477640766950128181",
+        "date": 1645574400,
+        "totalLiquidityUSD": "4348201174.35791399430944120809",
+        "totalTransactions": "560403911"
+      },
+      {
+        "dailyVolumeUSD": "618395714.257026903181057449439",
+        "date": 1645488000,
+        "totalLiquidityUSD": "4390403879.2105562544175226147",
+        "totalTransactions": "558722665"
+      },
+      {
+        "dailyVolumeUSD": "636277462.502521917805810919419",
+        "date": 1645401600,
+        "totalLiquidityUSD": "4260592135.693339797026248857053",
+        "totalTransactions": "557095956"
+      },
+      {
+        "dailyVolumeUSD": "593161227.404460352818213454813",
+        "date": 1645315200,
+        "totalLiquidityUSD": "4344567045.28078258103636432981",
+        "totalTransactions": "555517413"
+      },
+      {
+        "dailyVolumeUSD": "550136155.8046136610771553164285",
+        "date": 1645228800,
+        "totalLiquidityUSD": "4527859150.92955901992696841263",
+        "totalTransactions": "553917179"
+      },
+      {
+        "dailyVolumeUSD": "628102179.567185829799150739638",
+        "date": 1645142400,
+        "totalLiquidityUSD": "4542030085.53248700181581837274",
+        "totalTransactions": "552273801"
+      },
+      {
+        "dailyVolumeUSD": "640944282.166358652915207810573",
+        "date": 1645056000,
+        "totalLiquidityUSD": "4540725178.493444867456356824784",
+        "totalTransactions": "550447749"
+      },
+      {
+        "dailyVolumeUSD": "605604785.90462083347018818804",
+        "date": 1644969600,
+        "totalLiquidityUSD": "4732160664.27898162078783695728",
+        "totalTransactions": "548590222"
+      },
+      {
+        "dailyVolumeUSD": "624632222.524469243039888202811",
+        "date": 1644883200,
+        "totalLiquidityUSD": "4829599428.707856813332590973036",
+        "totalTransactions": "546601845"
+      },
+      {
+        "dailyVolumeUSD": "508297968.63588741023032661304",
+        "date": 1644796800,
+        "totalLiquidityUSD": "4708957982.61130669738444220338",
+        "totalTransactions": "544548321"
+      },
+      {
+        "dailyVolumeUSD": "533672316.598783018491164172107",
+        "date": 1644710400,
+        "totalLiquidityUSD": "4676274177.76546985726143341702",
+        "totalTransactions": "542791026"
+      },
+      {
+        "dailyVolumeUSD": "569421567.760113977315357362248",
+        "date": 1644624000,
+        "totalLiquidityUSD": "4689693165.337870037519545022137",
+        "totalTransactions": "540936925"
+      },
+      {
+        "dailyVolumeUSD": "801112017.218636468428969934356",
+        "date": 1644537600,
+        "totalLiquidityUSD": "4665184295.910605177153947842016",
+        "totalTransactions": "539273834"
+      },
+      {
+        "dailyVolumeUSD": "738768966.518571497996385296807",
+        "date": 1644451200,
+        "totalLiquidityUSD": "4774628622.93069770451990325584",
+        "totalTransactions": "537293774"
+      },
+      {
+        "dailyVolumeUSD": "577270140.738507306286176087481",
+        "date": 1644364800,
+        "totalLiquidityUSD": "4849262417.262642956305470185944",
+        "totalTransactions": "535333303"
+      },
+      {
+        "dailyVolumeUSD": "653044602.400078168366583318211",
+        "date": 1644278400,
+        "totalLiquidityUSD": "4732398837.21086197118168184153",
+        "totalTransactions": "533519741"
+      },
+      {
+        "dailyVolumeUSD": "641539485.603726531611703970991",
+        "date": 1644192000,
+        "totalLiquidityUSD": "4837225120.112238767490742862864",
+        "totalTransactions": "531625554"
+      },
+      {
+        "dailyVolumeUSD": "511396938.2297358766015252882907",
+        "date": 1644105600,
+        "totalLiquidityUSD": "4717786396.518674322877561795856",
+        "totalTransactions": "529644633"
+      },
+      {
+        "dailyVolumeUSD": "627102643.19142903944267686865",
+        "date": 1644019200,
+        "totalLiquidityUSD": "4675255833.682371395474945214645",
+        "totalTransactions": "527832588"
+      },
+      {
+        "dailyVolumeUSD": "619124599.862083311013217508948",
+        "date": 1643932800,
+        "totalLiquidityUSD": "4584548668.130157127134529116055",
+        "totalTransactions": "525851989"
+      },
+      {
+        "dailyVolumeUSD": "540196975.223710360767156139721",
+        "date": 1643846400,
+        "totalLiquidityUSD": "4280223434.547074493434613095843",
+        "totalTransactions": "524069610"
+      },
+      {
+        "dailyVolumeUSD": "464025610.353889781331226711264",
+        "date": 1643760000,
+        "totalLiquidityUSD": "4152495161.479112646471468381922",
+        "totalTransactions": "522596159"
+      },
+      {
+        "dailyVolumeUSD": "463181704.4695729205495117299765",
+        "date": 1643673600,
+        "totalLiquidityUSD": "4279352959.7006001736053220974",
+        "totalTransactions": "521111852"
+      },
+      {
+        "dailyVolumeUSD": "546332327.428332845246367120393",
+        "date": 1643587200,
+        "totalLiquidityUSD": "4207423379.333287058889335142772",
+        "totalTransactions": "519588664"
+      },
+      {
+        "dailyVolumeUSD": "474176659.0620507693870100098924",
+        "date": 1643500800,
+        "totalLiquidityUSD": "4207965242.165028121939254618614",
+        "totalTransactions": "518152275"
+      },
+      {
+        "dailyVolumeUSD": "500113618.765779978503233595352",
+        "date": 1643414400,
+        "totalLiquidityUSD": "4298854101.745020084580301688345",
+        "totalTransactions": "516781818"
+      },
+      {
+        "dailyVolumeUSD": "544470901.897629012189427345378",
+        "date": 1643328000,
+        "totalLiquidityUSD": "4244311977.22709266336768450544",
+        "totalTransactions": "515435017"
+      },
+      {
+        "dailyVolumeUSD": "899129273.837018513310853170668",
+        "date": 1643241600,
+        "totalLiquidityUSD": "4209527144.487482580714588025747",
+        "totalTransactions": "513980517"
+      },
+      {
+        "dailyVolumeUSD": "632806283.134314075476668170906",
+        "date": 1643155200,
+        "totalLiquidityUSD": "4124491428.757758383991106578843",
+        "totalTransactions": "512526462"
+      },
+      {
+        "dailyVolumeUSD": "539936945.083324778784003791115",
+        "date": 1643068800,
+        "totalLiquidityUSD": "4184429068.29269658724420618859",
+        "totalTransactions": "510947929"
+      },
+      {
+        "dailyVolumeUSD": "699062902.967328312725704053135",
+        "date": 1642982400,
+        "totalLiquidityUSD": "4090663181.621924990736093401",
+        "totalTransactions": "509475142"
+      },
+      {
+        "dailyVolumeUSD": "566908622.638419715349968186468",
+        "date": 1642896000,
+        "totalLiquidityUSD": "4206615993.025045146691991223657",
+        "totalTransactions": "508032707"
+      },
+      {
+        "dailyVolumeUSD": "1131293664.269375147146552640172",
+        "date": 1642809600,
+        "totalLiquidityUSD": "3981787770.941190156056060277072",
+        "totalTransactions": "506656772"
+      },
+      {
+        "dailyVolumeUSD": "1081879515.119303753132430536312",
+        "date": 1642723200,
+        "totalLiquidityUSD": "4249831316.030361031150321051157",
+        "totalTransactions": "505037537"
+      },
+      {
+        "dailyVolumeUSD": "732303330.24036921806020899889",
+        "date": 1642636800,
+        "totalLiquidityUSD": "4716036792.44405643552008738699",
+        "totalTransactions": "503213897"
+      },
+      {
+        "dailyVolumeUSD": "664991168.9763659043629369524825",
+        "date": 1642550400,
+        "totalLiquidityUSD": "4819335001.53094617690677087969",
+        "totalTransactions": "501426817"
+      },
+      {
+        "dailyVolumeUSD": "709549343.7839927313821065559945",
+        "date": 1642464000,
+        "totalLiquidityUSD": "4883987549.71120390613317684335",
+        "totalTransactions": "499791974"
+      },
+      {
+        "dailyVolumeUSD": "735690262.8962878350696982313915",
+        "date": 1642377600,
+        "totalLiquidityUSD": "4933723341.33533045324649156678",
+        "totalTransactions": "498100399"
+      },
+      {
+        "dailyVolumeUSD": "715606850.34117190578789588811",
+        "date": 1642291200,
+        "totalLiquidityUSD": "5095850054.14915131210661666976",
+        "totalTransactions": "496361221"
+      },
+      {
+        "dailyVolumeUSD": "669102513.4521128269513647035984",
+        "date": 1642204800,
+        "totalLiquidityUSD": "5104561767.47642395543287568821",
+        "totalTransactions": "494551793"
+      },
+      {
+        "dailyVolumeUSD": "783316906.531352118564771384379",
+        "date": 1642118400,
+        "totalLiquidityUSD": "5080661803.956634422666666398285",
+        "totalTransactions": "492753826"
+      },
+      {
+        "dailyVolumeUSD": "737891270.462624166889551515625",
+        "date": 1642032000,
+        "totalLiquidityUSD": "5003275056.87176042019061725064",
+        "totalTransactions": "490853734"
+      },
+      {
+        "dailyVolumeUSD": "721533449.796403729595040005767",
+        "date": 1641945600,
+        "totalLiquidityUSD": "5121681383.20379690741896386105",
+        "totalTransactions": "488915554"
+      },
+      {
+        "dailyVolumeUSD": "775313137.3612282788548831102444",
+        "date": 1641859200,
+        "totalLiquidityUSD": "4957359987.345032031180380596715",
+        "totalTransactions": "487115533"
+      },
+      {
+        "dailyVolumeUSD": "878343608.789038927468248963326",
+        "date": 1641772800,
+        "totalLiquidityUSD": "4767861624.368630384145645013605",
+        "totalTransactions": "485342711"
+      },
+      {
+        "dailyVolumeUSD": "663231217.8849423392676537064814",
+        "date": 1641686400,
+        "totalLiquidityUSD": "4871257647.78651565754268762376",
+        "totalTransactions": "483442682"
+      },
+      {
+        "dailyVolumeUSD": "767880413.6699099774832347193655",
+        "date": 1641600000,
+        "totalLiquidityUSD": "4792696308.43404478149900757068",
+        "totalTransactions": "481792523"
+      },
+      {
+        "dailyVolumeUSD": "856559992.5317443141485273590206",
+        "date": 1641513600,
+        "totalLiquidityUSD": "4914025681.75840067665532502288",
+        "totalTransactions": "480053503"
+      },
+      {
+        "dailyVolumeUSD": "898194155.993932212979183010627",
+        "date": 1641427200,
+        "totalLiquidityUSD": "5127724493.935584772199465449366",
+        "totalTransactions": "478153572"
+      },
+      {
+        "dailyVolumeUSD": "1062486441.2609569499789040687305",
+        "date": 1641340800,
+        "totalLiquidityUSD": "5186726885.357160070808039609516",
+        "totalTransactions": "476180926"
+      },
+      {
+        "dailyVolumeUSD": "922019746.7475398507467351673455",
+        "date": 1641254400,
+        "totalLiquidityUSD": "5471889714.778021985783530377536",
+        "totalTransactions": "473988152"
+      },
+      {
+        "dailyVolumeUSD": "776197379.9322099806454507772334",
+        "date": 1641168000,
+        "totalLiquidityUSD": "5472756749.10962822602190993622",
+        "totalTransactions": "471881199"
+      },
+      {
+        "dailyVolumeUSD": "699667556.434036590248683073641",
+        "date": 1641081600,
+        "totalLiquidityUSD": "5576011814.29332022396614166461",
+        "totalTransactions": "469836083"
+      },
+      {
+        "dailyVolumeUSD": "661952555.722764249610437537879",
+        "date": 1640995200,
+        "totalLiquidityUSD": "5527186829.3633880235567455376",
+        "totalTransactions": "468033562"
+      },
+      {
+        "dailyVolumeUSD": "862885940.616143129962259485707",
+        "date": 1640908800,
+        "totalLiquidityUSD": "5427373581.849572376380092803095",
+        "totalTransactions": "466411592"
+      },
+      {
+        "dailyVolumeUSD": "855934414.661046437486981281628",
+        "date": 1640822400,
+        "totalLiquidityUSD": "5483115957.086855920560181256124",
+        "totalTransactions": "464654961"
+      },
+      {
+        "dailyVolumeUSD": "913643252.350255053040187515983",
+        "date": 1640736000,
+        "totalLiquidityUSD": "5449014284.283155745571660273693",
+        "totalTransactions": "462745355"
+      },
+      {
+        "dailyVolumeUSD": "973290354.87866820132894309017",
+        "date": 1640649600,
+        "totalLiquidityUSD": "5590953490.52060931381179739401",
+        "totalTransactions": "460801590"
+      },
+      {
+        "dailyVolumeUSD": "933606271.458101418569047752112",
+        "date": 1640563200,
+        "totalLiquidityUSD": "5799955525.178350428732773418284",
+        "totalTransactions": "458777792"
+      },
+      {
+        "dailyVolumeUSD": "843989825.259216524929735557788",
+        "date": 1640476800,
+        "totalLiquidityUSD": "5678675920.98236374335102425875",
+        "totalTransactions": "456734968"
+      },
+      {
+        "dailyVolumeUSD": "834729059.2309875248964317264935",
+        "date": 1640390400,
+        "totalLiquidityUSD": "5683607691.44679427285829612226",
+        "totalTransactions": "454894050"
+      },
+      {
+        "dailyVolumeUSD": "963215205.094961621436816764868",
+        "date": 1640304000,
+        "totalLiquidityUSD": "5622665008.04314828613983880848",
+        "totalTransactions": "453218831"
+      },
+      {
+        "dailyVolumeUSD": "1084238768.27894633810227652925",
+        "date": 1640217600,
+        "totalLiquidityUSD": "5640150056.53508442935182325555",
+        "totalTransactions": "451406541"
+      },
+      {
+        "dailyVolumeUSD": "939938546.116378147351617200817",
+        "date": 1640131200,
+        "totalLiquidityUSD": "5514789999.44604181917863880282",
+        "totalTransactions": "449304829"
+      },
+      {
+        "dailyVolumeUSD": "918645576.1010573184443171186336",
+        "date": 1640044800,
+        "totalLiquidityUSD": "5487722900.87284209779250147173",
+        "totalTransactions": "447347348"
+      },
+      {
+        "dailyVolumeUSD": "1006020534.518253134176441252864",
+        "date": 1639958400,
+        "totalLiquidityUSD": "5437013771.814361403115261497964",
+        "totalTransactions": "445486281"
+      },
+      {
+        "dailyVolumeUSD": "758636819.400139761350409465117",
+        "date": 1639872000,
+        "totalLiquidityUSD": "5490750768.642169352403625517716",
+        "totalTransactions": "443528230"
+      },
+      {
+        "dailyVolumeUSD": "861877230.594215672927054646559",
+        "date": 1639785600,
+        "totalLiquidityUSD": "5505532824.41551792628431979041",
+        "totalTransactions": "441902289"
+      },
+      {
+        "dailyVolumeUSD": "1264607733.276618705881388109242",
+        "date": 1639699200,
+        "totalLiquidityUSD": "5452877701.50233667534845621429",
+        "totalTransactions": "440243581"
+      },
+      {
+        "dailyVolumeUSD": "982686894.101724493771685448283",
+        "date": 1639612800,
+        "totalLiquidityUSD": "5466316351.359519598770954595086",
+        "totalTransactions": "438153144"
+      },
+      {
+        "dailyVolumeUSD": "1038920134.088792657378795694016",
+        "date": 1639526400,
+        "totalLiquidityUSD": "5521061852.46065983037334579174",
+        "totalTransactions": "436326898"
+      },
+      {
+        "dailyVolumeUSD": "1059954096.126317192797924541368",
+        "date": 1639440000,
+        "totalLiquidityUSD": "5292977539.73973773774586592502",
+        "totalTransactions": "434540621"
+      },
+      {
+        "dailyVolumeUSD": "1085653870.275391145497091749619",
+        "date": 1639353600,
+        "totalLiquidityUSD": "5162853468.708639226121443559285",
+        "totalTransactions": "432759727"
+      },
+      {
+        "dailyVolumeUSD": "872269351.810219284833315595818",
+        "date": 1639267200,
+        "totalLiquidityUSD": "5537577206.26756424242668528421",
+        "totalTransactions": "430965495"
+      },
+      {
+        "dailyVolumeUSD": "964261498.3955537143219931392",
+        "date": 1639180800,
+        "totalLiquidityUSD": "5485574445.5922082937206753725",
+        "totalTransactions": "429308616"
+      },
+      {
+        "dailyVolumeUSD": "1489597319.66003831415311189316",
+        "date": 1639094400,
+        "totalLiquidityUSD": "5380889436.80629694355404991955",
+        "totalTransactions": "427668561"
+      },
+      {
+        "dailyVolumeUSD": "1444907231.307202713776362737322",
+        "date": 1639008000,
+        "totalLiquidityUSD": "5524783159.423811892927580383246",
+        "totalTransactions": "425580812"
+      },
+      {
+        "dailyVolumeUSD": "1459945270.41743286142175210146",
+        "date": 1638921600,
+        "totalLiquidityUSD": "5862577715.88183607929423745223",
+        "totalTransactions": "423461444"
+      },
+      {
+        "dailyVolumeUSD": "1496806918.517210529332579499037",
+        "date": 1638835200,
+        "totalLiquidityUSD": "5711541921.73281736764426006323",
+        "totalTransactions": "421236404"
+      },
+      {
+        "dailyVolumeUSD": "1781511130.982925384582459515986",
+        "date": 1638748800,
+        "totalLiquidityUSD": "5825199587.90457145268783395282",
+        "totalTransactions": "418988512"
+      },
+      {
+        "dailyVolumeUSD": "1459126259.55333719867058111413",
+        "date": 1638662400,
+        "totalLiquidityUSD": "5806948261.20064700068470393996",
+        "totalTransactions": "416701621"
+      },
+      {
+        "dailyVolumeUSD": "2092818638.404248378986902255938",
+        "date": 1638576000,
+        "totalLiquidityUSD": "5872193637.475952784209241732826",
+        "totalTransactions": "414836573"
+      },
+      {
+        "dailyVolumeUSD": "1767561241.902926791321738765416",
+        "date": 1638489600,
+        "totalLiquidityUSD": "6281885060.11252123899809238267",
+        "totalTransactions": "412748819"
+      },
+      {
+        "dailyVolumeUSD": "2315021911.142249598988797769798",
+        "date": 1638403200,
+        "totalLiquidityUSD": "6504847123.447090096730643206263",
+        "totalTransactions": "410584492"
+      },
+      {
+        "dailyVolumeUSD": "2345732075.91734707193273852252",
+        "date": 1638316800,
+        "totalLiquidityUSD": "6524798147.796413020603845047974",
+        "totalTransactions": "407763413"
+      },
+      {
+        "dailyVolumeUSD": "2181868132.459861463292090467728",
+        "date": 1638230400,
+        "totalLiquidityUSD": "6542694210.86236663722083345993",
+        "totalTransactions": "405109259"
+      },
+      {
+        "dailyVolumeUSD": "1976312448.385039130048434213284",
+        "date": 1638144000,
+        "totalLiquidityUSD": "6507226508.656044977669964504414",
+        "totalTransactions": "402576391"
+      },
+      {
+        "dailyVolumeUSD": "1627037824.654133848371030910794",
+        "date": 1638057600,
+        "totalLiquidityUSD": "6368589290.097267220987851587944",
+        "totalTransactions": "400088028"
+      },
+      {
+        "dailyVolumeUSD": "1519628249.573277687669373452027",
+        "date": 1637971200,
+        "totalLiquidityUSD": "6258111753.12035063387146289529",
+        "totalTransactions": "397838100"
+      },
+      {
+        "dailyVolumeUSD": "2258193904.57674940841949241492",
+        "date": 1637884800,
+        "totalLiquidityUSD": "6160188447.82514331941334981029",
+        "totalTransactions": "395627521"
+      },
+      {
+        "dailyVolumeUSD": "2186347960.098863634349811634374",
+        "date": 1637798400,
+        "totalLiquidityUSD": "6694612861.857179178912555321255",
+        "totalTransactions": "393159703"
+      },
+      {
+        "dailyVolumeUSD": "1893800058.64863016372330538653",
+        "date": 1637712000,
+        "totalLiquidityUSD": "6361597113.37115255709775930462",
+        "totalTransactions": "390427622"
+      },
+      {
+        "dailyVolumeUSD": "1832672870.018641806336674692553",
+        "date": 1637625600,
+        "totalLiquidityUSD": "6396971703.58510571887123805305",
+        "totalTransactions": "387794308"
+      },
+      {
+        "dailyVolumeUSD": "1694288788.124790663424577429048",
+        "date": 1637539200,
+        "totalLiquidityUSD": "6098056446.499543898911035203354",
+        "totalTransactions": "385087428"
+      },
+      {
+        "dailyVolumeUSD": "1862941287.971589460480003198127",
+        "date": 1637452800,
+        "totalLiquidityUSD": "6284867229.108209567816035403475",
+        "totalTransactions": "382535216"
+      },
+      {
+        "dailyVolumeUSD": "2112901162.678002509129675437802",
+        "date": 1637366400,
+        "totalLiquidityUSD": "6475961779.99696186129612925511",
+        "totalTransactions": "379883973"
+      },
+      {
+        "dailyVolumeUSD": "1870300331.726415946593094543264",
+        "date": 1637280000,
+        "totalLiquidityUSD": "6268391668.34085391145873346609",
+        "totalTransactions": "377117792"
+      },
+      {
+        "dailyVolumeUSD": "2255253317.98651702109358521985",
+        "date": 1637193600,
+        "totalLiquidityUSD": "5853510335.66194498657427622671",
+        "totalTransactions": "374466081"
+      },
+      {
+        "dailyVolumeUSD": "1704818023.375458480592340386747",
+        "date": 1637107200,
+        "totalLiquidityUSD": "6191103534.71175190736201343278",
+        "totalTransactions": "371580412"
+      },
+      {
+        "dailyVolumeUSD": "2137520212.039754375504881841653",
+        "date": 1637020800,
+        "totalLiquidityUSD": "6154089236.62003712028570924679",
+        "totalTransactions": "368812987"
+      },
+      {
+        "dailyVolumeUSD": "1924816302.528924290548984937346",
+        "date": 1636934400,
+        "totalLiquidityUSD": "6432076674.46677094198975325863",
+        "totalTransactions": "365862964"
+      },
+      {
+        "dailyVolumeUSD": "1790989282.95291069408910129738",
+        "date": 1636848000,
+        "totalLiquidityUSD": "6566433405.71322289014223187484",
+        "totalTransactions": "362544248"
+      },
+      {
+        "dailyVolumeUSD": "1697889177.410906991509082380832",
+        "date": 1636761600,
+        "totalLiquidityUSD": "6519980006.693482703884545570195",
+        "totalTransactions": "359611407"
+      },
+      {
+        "dailyVolumeUSD": "1332906920.161398032265717436361",
+        "date": 1636675200,
+        "totalLiquidityUSD": "6347105400.721098273995699653145",
+        "totalTransactions": "356767728"
+      },
+      {
+        "dailyVolumeUSD": "1759645217.702144764895238344321",
+        "date": 1636588800,
+        "totalLiquidityUSD": "6366974071.98169955545015663383",
+        "totalTransactions": "354587234"
+      },
+      {
+        "dailyVolumeUSD": "2278939778.37089554345362373883",
+        "date": 1636502400,
+        "totalLiquidityUSD": "6220933600.110754936309438565344",
+        "totalTransactions": "351264069"
+      },
+      {
+        "dailyVolumeUSD": "1685462399.984815730763382988348",
+        "date": 1636416000,
+        "totalLiquidityUSD": "6397522158.421000637009765464156",
+        "totalTransactions": "347801658"
+      },
+      {
+        "dailyVolumeUSD": "1826406074.585528258640941989569",
+        "date": 1636329600,
+        "totalLiquidityUSD": "6557379136.423427950701833600585",
+        "totalTransactions": "344596706"
+      },
+      {
+        "dailyVolumeUSD": "2020195139.487476912379463457168",
+        "date": 1636243200,
+        "totalLiquidityUSD": "6478550389.35707760119484208837",
+        "totalTransactions": "341394032"
+      },
+      {
+        "dailyVolumeUSD": "1894133893.662403465999180570693",
+        "date": 1636156800,
+        "totalLiquidityUSD": "6401793892.62662601637261863303",
+        "totalTransactions": "337946471"
+      },
+      {
+        "dailyVolumeUSD": "1737980701.890790291233739371786",
+        "date": 1636070400,
+        "totalLiquidityUSD": "6302845502.14843008352122616361",
+        "totalTransactions": "334633128"
+      },
+      {
+        "dailyVolumeUSD": "1940014308.227220645248903922912",
+        "date": 1635984000,
+        "totalLiquidityUSD": "6073386196.95543822967929525863",
+        "totalTransactions": "331495557"
+      },
+      {
+        "dailyVolumeUSD": "1758924598.134969443525123803096",
+        "date": 1635897600,
+        "totalLiquidityUSD": "6076878824.577682412915518056245",
+        "totalTransactions": "328081895"
+      },
+      {
+        "dailyVolumeUSD": "1685483598.34076801645512310325",
+        "date": 1635811200,
+        "totalLiquidityUSD": "5954735059.05344378501159447857",
+        "totalTransactions": "324759029"
+      },
+      {
+        "dailyVolumeUSD": "1592127321.894429369268262648937",
+        "date": 1635724800,
+        "totalLiquidityUSD": "5884102136.487103049504221995404",
+        "totalTransactions": "321394123"
+      },
+      {
+        "dailyVolumeUSD": "1452291448.261099265563564543752",
+        "date": 1635638400,
+        "totalLiquidityUSD": "5758975045.936821277685933548534",
+        "totalTransactions": "318070476"
+      },
+      {
+        "dailyVolumeUSD": "1648236214.229787782010384361887",
+        "date": 1635552000,
+        "totalLiquidityUSD": "5815513186.46531649798609578146",
+        "totalTransactions": "315025112"
+      },
+      {
+        "dailyVolumeUSD": "1590005895.438003923021258208406",
+        "date": 1635465600,
+        "totalLiquidityUSD": "5898588300.736389578077628411324",
+        "totalTransactions": "311473544"
+      },
+      {
+        "dailyVolumeUSD": "1521239326.073814036201707409666",
+        "date": 1635379200,
+        "totalLiquidityUSD": "5643762662.35861171384736602633",
+        "totalTransactions": "308067325"
+      },
+      {
+        "dailyVolumeUSD": "1271472566.328285573110781613152",
+        "date": 1635292800,
+        "totalLiquidityUSD": "5447135921.684316920783021463454",
+        "totalTransactions": "304949156"
+      },
+      {
+        "dailyVolumeUSD": "1149475182.088642701969048813566",
+        "date": 1635206400,
+        "totalLiquidityUSD": "5831989924.66286810302061713968",
+        "totalTransactions": "302520787"
+      },
+      {
+        "dailyVolumeUSD": "946295232.149125402835072517959",
+        "date": 1635120000,
+        "totalLiquidityUSD": "5742467225.54674084556282704787",
+        "totalTransactions": "300022569"
+      },
+      {
+        "dailyVolumeUSD": "791465886.169642658202384873185",
+        "date": 1635033600,
+        "totalLiquidityUSD": "5647734632.010533862524222892746",
+        "totalTransactions": "297882226"
+      },
+      {
+        "dailyVolumeUSD": "713151548.565896075911657930491",
+        "date": 1634947200,
+        "totalLiquidityUSD": "5718021386.74393243694729596605",
+        "totalTransactions": "296059536"
+      },
+      {
+        "dailyVolumeUSD": "1010911715.8573189189154692562554",
+        "date": 1634860800,
+        "totalLiquidityUSD": "5661931373.78276752411427196766",
+        "totalTransactions": "294220875"
+      },
+      {
+        "dailyVolumeUSD": "1013010942.911996262785389067286",
+        "date": 1634774400,
+        "totalLiquidityUSD": "5499099259.92399628269343634122",
+        "totalTransactions": "292190462"
+      },
+      {
+        "dailyVolumeUSD": "1054335532.783905936284960726267",
+        "date": 1634688000,
+        "totalLiquidityUSD": "5361791544.693466178035128039624",
+        "totalTransactions": "290037499"
+      },
+      {
+        "dailyVolumeUSD": "863553701.600109724071618380599",
+        "date": 1634601600,
+        "totalLiquidityUSD": "5260367709.169527015293261122664",
+        "totalTransactions": "288034658"
+      },
+      {
+        "dailyVolumeUSD": "874822350.358042409774820027472",
+        "date": 1634515200,
+        "totalLiquidityUSD": "5227596740.570618497894894594826",
+        "totalTransactions": "285891191"
+      },
+      {
+        "dailyVolumeUSD": "844716995.106366113270830240816",
+        "date": 1634428800,
+        "totalLiquidityUSD": "5167354092.484945436791445397275",
+        "totalTransactions": "283799866"
+      },
+      {
+        "dailyVolumeUSD": "759780756.7360817104122376128255",
+        "date": 1634342400,
+        "totalLiquidityUSD": "5156856589.00435737527026736601",
+        "totalTransactions": "281963806"
+      },
+      {
+        "dailyVolumeUSD": "980708074.56091209009357931041",
+        "date": 1634256000,
+        "totalLiquidityUSD": "5243328086.91901931408362920023",
+        "totalTransactions": "280318600"
+      },
+      {
+        "dailyVolumeUSD": "1018895551.601155710707617110769",
+        "date": 1634169600,
+        "totalLiquidityUSD": "5201696443.52981687882499493661",
+        "totalTransactions": "278468956"
+      },
+      {
+        "dailyVolumeUSD": "1289036095.662344662457833818614",
+        "date": 1634083200,
+        "totalLiquidityUSD": "5325615552.240944184426984535186",
+        "totalTransactions": "276460135"
+      },
+      {
+        "dailyVolumeUSD": "1043837008.713610863072598175044",
+        "date": 1633996800,
+        "totalLiquidityUSD": "5513196415.89746381120415489945",
+        "totalTransactions": "274439780"
+      },
+      {
+        "dailyVolumeUSD": "831738111.750537422768252042398",
+        "date": 1633910400,
+        "totalLiquidityUSD": "5290040897.905132830419393868295",
+        "totalTransactions": "272581605"
+      },
+      {
+        "dailyVolumeUSD": "793021513.262869527018514048682",
+        "date": 1633824000,
+        "totalLiquidityUSD": "5190360732.45673165768970667542",
+        "totalTransactions": "270731996"
+      },
+      {
+        "dailyVolumeUSD": "686844733.286411339464468765296",
+        "date": 1633737600,
+        "totalLiquidityUSD": "5340467068.63782326799069130459",
+        "totalTransactions": "269050463"
+      },
+      {
+        "dailyVolumeUSD": "716841891.9902189305047968659",
+        "date": 1633651200,
+        "totalLiquidityUSD": "5165619678.80387189883433794748",
+        "totalTransactions": "267436099"
+      },
+      {
+        "dailyVolumeUSD": "852252912.67754372297804485728",
+        "date": 1633564800,
+        "totalLiquidityUSD": "4865116611.401605937425108989374",
+        "totalTransactions": "265835195"
+      },
+      {
+        "dailyVolumeUSD": "752716734.593382304640633905901",
+        "date": 1633478400,
+        "totalLiquidityUSD": "4881991638.81343021858804477933",
+        "totalTransactions": "264116274"
+      },
+      {
+        "dailyVolumeUSD": "690142946.429619751253383489438",
+        "date": 1633392000,
+        "totalLiquidityUSD": "4921899976.607000269730500771864",
+        "totalTransactions": "262518394"
+      },
+      {
+        "dailyVolumeUSD": "673413283.8042086874606378738695",
+        "date": 1633305600,
+        "totalLiquidityUSD": "4802709764.732875231032467632296",
+        "totalTransactions": "260987090"
+      },
+      {
+        "dailyVolumeUSD": "562250178.792214258013057606758",
+        "date": 1633219200,
+        "totalLiquidityUSD": "4806715359.35666076428428825898",
+        "totalTransactions": "259511585"
+      },
+      {
+        "dailyVolumeUSD": "623884804.2903992573446879448365",
+        "date": 1633132800,
+        "totalLiquidityUSD": "4826761324.28220404754021775179",
+        "totalTransactions": "258101510"
+      },
+      {
+        "dailyVolumeUSD": "640086948.329559744879876194384",
+        "date": 1633046400,
+        "totalLiquidityUSD": "4813141803.09963396780364188406",
+        "totalTransactions": "256714806"
+      },
+      {
+        "dailyVolumeUSD": "619002603.086668338823340171",
+        "date": 1632960000,
+        "totalLiquidityUSD": "4546019196.10633099327217590569",
+        "totalTransactions": "255335164"
+      },
+      {
+        "dailyVolumeUSD": "684743186.351139851211493078735",
+        "date": 1632873600,
+        "totalLiquidityUSD": "4678465677.34546977760639081038",
+        "totalTransactions": "253913187"
+      },
+      {
+        "dailyVolumeUSD": "556797346.1224269826922428331225",
+        "date": 1632787200,
+        "totalLiquidityUSD": "4764396940.01805515706417294594",
+        "totalTransactions": "252540084"
+      },
+      {
+        "dailyVolumeUSD": "595552188.36196970711973078285",
+        "date": 1632700800,
+        "totalLiquidityUSD": "4782383360.74875953401248259076",
+        "totalTransactions": "251267632"
+      },
+      {
+        "dailyVolumeUSD": "684303806.300414259994672858968",
+        "date": 1632614400,
+        "totalLiquidityUSD": "4788370470.46094087604420356319",
+        "totalTransactions": "249859328"
+      },
+      {
+        "dailyVolumeUSD": "496182165.196569258073680282858",
+        "date": 1632528000,
+        "totalLiquidityUSD": "4816095756.2180279280072898713",
+        "totalTransactions": "248585993"
+      },
+      {
+        "dailyVolumeUSD": "868140636.8004478889408517648575",
+        "date": 1632441600,
+        "totalLiquidityUSD": "4815350164.17876869929271014684",
+        "totalTransactions": "247396884"
+      },
+      {
+        "dailyVolumeUSD": "674736060.512505640472035040997",
+        "date": 1632355200,
+        "totalLiquidityUSD": "5056762829.56732705809551902942",
+        "totalTransactions": "246000269"
+      },
+      {
+        "dailyVolumeUSD": "735275528.852114685501147580289",
+        "date": 1632268800,
+        "totalLiquidityUSD": "4955498831.37766775632212256029",
+        "totalTransactions": "244420166"
+      },
+      {
+        "dailyVolumeUSD": "913579466.803573369239075087786",
+        "date": 1632182400,
+        "totalLiquidityUSD": "4585529232.314536387921680100964",
+        "totalTransactions": "242776463"
+      },
+      {
+        "dailyVolumeUSD": "1061696467.982371221330054865579",
+        "date": 1632096000,
+        "totalLiquidityUSD": "4812154974.348032730979942587064",
+        "totalTransactions": "241206913"
+      },
+      {
+        "dailyVolumeUSD": "587357940.235148503593170570714",
+        "date": 1632009600,
+        "totalLiquidityUSD": "5440725281.9023601262828495419",
+        "totalTransactions": "239605340"
+      },
+      {
+        "dailyVolumeUSD": "603559712.333842120440164906406",
+        "date": 1631923200,
+        "totalLiquidityUSD": "5453844155.93101048530729467078",
+        "totalTransactions": "238165304"
+      },
+      {
+        "dailyVolumeUSD": "681501332.017510158615249390515",
+        "date": 1631836800,
+        "totalLiquidityUSD": "5389785098.91490841715053886762",
+        "totalTransactions": "236637459"
+      },
+      {
+        "dailyVolumeUSD": "834903932.370793435457022876465",
+        "date": 1631750400,
+        "totalLiquidityUSD": "5591120417.18613232737693586581",
+        "totalTransactions": "235194977"
+      },
+      {
+        "dailyVolumeUSD": "745438758.8889995196011976658775",
+        "date": 1631664000,
+        "totalLiquidityUSD": "5645746885.37937708102988172181",
+        "totalTransactions": "233693222"
+      },
+      {
+        "dailyVolumeUSD": "627830117.420775349805992426171",
+        "date": 1631577600,
+        "totalLiquidityUSD": "5404232003.900684489533646948636",
+        "totalTransactions": "232391439"
+      },
+      {
+        "dailyVolumeUSD": "815436089.158069708801277591332",
+        "date": 1631491200,
+        "totalLiquidityUSD": "5063817886.58869322130763334653",
+        "totalTransactions": "231117453"
+      },
+      {
+        "dailyVolumeUSD": "594109602.244349796812164197678",
+        "date": 1631404800,
+        "totalLiquidityUSD": "5209340196.92394565398190019465",
+        "totalTransactions": "229872359"
+      },
+      {
+        "dailyVolumeUSD": "543454746.245520986669755549067",
+        "date": 1631318400,
+        "totalLiquidityUSD": "5100411096.51459032951948933865",
+        "totalTransactions": "228689650"
+      },
+      {
+        "dailyVolumeUSD": "858930426.72673901623171528078",
+        "date": 1631232000,
+        "totalLiquidityUSD": "5050468458.498193127628197579494",
+        "totalTransactions": "227525785"
+      },
+      {
+        "dailyVolumeUSD": "844347683.692467217887432511942",
+        "date": 1631145600,
+        "totalLiquidityUSD": "5225095017.68674847646040638057",
+        "totalTransactions": "226198449"
+      },
+      {
+        "dailyVolumeUSD": "1038510830.041405742229282097155",
+        "date": 1631059200,
+        "totalLiquidityUSD": "5093439932.67320140745116789212",
+        "totalTransactions": "224813232"
+      },
+      {
+        "dailyVolumeUSD": "1698918928.171184621508382376846",
+        "date": 1630972800,
+        "totalLiquidityUSD": "5055817928.029642017114260994577",
+        "totalTransactions": "223531784"
+      },
+      {
+        "dailyVolumeUSD": "853059918.698244748239747070996",
+        "date": 1630886400,
+        "totalLiquidityUSD": "5908022298.64983322759757334259",
+        "totalTransactions": "221927523"
+      },
+      {
+        "dailyVolumeUSD": "656782734.713625810840466453328",
+        "date": 1630800000,
+        "totalLiquidityUSD": "5967220817.10232110846934468708",
+        "totalTransactions": "220315784"
+      },
+      {
+        "dailyVolumeUSD": "779356114.714796377203671906122",
+        "date": 1630713600,
+        "totalLiquidityUSD": "5908911697.75438570954773606585",
+        "totalTransactions": "218957502"
+      },
+      {
+        "dailyVolumeUSD": "850724759.351301200895681751974",
+        "date": 1630627200,
+        "totalLiquidityUSD": "5839767022.563921230248103090153",
+        "totalTransactions": "217534957"
+      },
+      {
+        "dailyVolumeUSD": "822758219.372304483762482324081",
+        "date": 1630540800,
+        "totalLiquidityUSD": "5904352792.03048838678254536661",
+        "totalTransactions": "216059548"
+      },
+      {
+        "dailyVolumeUSD": "906682943.3690340098725069679764",
+        "date": 1630454400,
+        "totalLiquidityUSD": "5923333808.985632210411209206727",
+        "totalTransactions": "214640519"
+      },
+      {
+        "dailyVolumeUSD": "956550068.664916674028652483304",
+        "date": 1630368000,
+        "totalLiquidityUSD": "5743608591.89077028608693605737",
+        "totalTransactions": "213186908"
+      },
+      {
+        "dailyVolumeUSD": "883249848.088133175501538239878",
+        "date": 1630281600,
+        "totalLiquidityUSD": "5899392482.904683835975937574544",
+        "totalTransactions": "211685988"
+      },
+      {
+        "dailyVolumeUSD": "771504209.059059266243395226124",
+        "date": 1630195200,
+        "totalLiquidityUSD": "6185533202.37136957390415716492",
+        "totalTransactions": "210274741"
+      },
+      {
+        "dailyVolumeUSD": "740073045.652109346923108699835",
+        "date": 1630108800,
+        "totalLiquidityUSD": "6260381009.12338038702199847478",
+        "totalTransactions": "208959414"
+      },
+      {
+        "dailyVolumeUSD": "1054337271.235069011071925964564",
+        "date": 1630022400,
+        "totalLiquidityUSD": "6439257700.222768190922751055526",
+        "totalTransactions": "207623937"
+      },
+      {
+        "dailyVolumeUSD": "1305825185.288511815015230125007",
+        "date": 1629936000,
+        "totalLiquidityUSD": "6322064631.65459941482091656072",
+        "totalTransactions": "206184604"
+      },
+      {
+        "dailyVolumeUSD": "1341641929.350602538852899651276",
+        "date": 1629849600,
+        "totalLiquidityUSD": "6495061571.42762796234867818858",
+        "totalTransactions": "204697625"
+      },
+      {
+        "dailyVolumeUSD": "1160825444.44014620936666009545",
+        "date": 1629763200,
+        "totalLiquidityUSD": "6106418685.15796620381022721137",
+        "totalTransactions": "203184387"
+      },
+      {
+        "dailyVolumeUSD": "1073403066.474715052301758847248",
+        "date": 1629676800,
+        "totalLiquidityUSD": "6379647898.53922681059803428411",
+        "totalTransactions": "201692811"
+      },
+      {
+        "dailyVolumeUSD": "734868366.75334402696387655445",
+        "date": 1629590400,
+        "totalLiquidityUSD": "6002435544.63752191955380183975",
+        "totalTransactions": "200081258"
+      },
+      {
+        "dailyVolumeUSD": "882125902.610958509506226793296",
+        "date": 1629504000,
+        "totalLiquidityUSD": "6038405279.213204921349487140346",
+        "totalTransactions": "198747037"
+      },
+      {
+        "dailyVolumeUSD": "882077835.436146571794091546507",
+        "date": 1629417600,
+        "totalLiquidityUSD": "6044037627.04137486599552418896",
+        "totalTransactions": "197181785"
+      },
+      {
+        "dailyVolumeUSD": "942958681.3096726464605006889664",
+        "date": 1629331200,
+        "totalLiquidityUSD": "5750062197.9906337088061498375",
+        "totalTransactions": "195692539"
+      },
+      {
+        "dailyVolumeUSD": "810061055.411965260032916435309",
+        "date": 1629244800,
+        "totalLiquidityUSD": "5447150969.6344135478131082277",
+        "totalTransactions": "194262102"
+      },
+      {
+        "dailyVolumeUSD": "833185514.4326834741538331359774",
+        "date": 1629158400,
+        "totalLiquidityUSD": "5441798468.39365705691757501476",
+        "totalTransactions": "192899508"
+      },
+      {
+        "dailyVolumeUSD": "817717509.857633432220570580796",
+        "date": 1629072000,
+        "totalLiquidityUSD": "5616851507.813052872458637756064",
+        "totalTransactions": "191490663"
+      },
+      {
+        "dailyVolumeUSD": "624574067.5020847197102730795424",
+        "date": 1628985600,
+        "totalLiquidityUSD": "5673752249.71767882928010445356",
+        "totalTransactions": "190015820"
+      },
+      {
+        "dailyVolumeUSD": "571604906.18905881540465308313",
+        "date": 1628899200,
+        "totalLiquidityUSD": "5585599321.25412899820334981545",
+        "totalTransactions": "188673237"
+      },
+      {
+        "dailyVolumeUSD": "562125399.976408220472180625031",
+        "date": 1628812800,
+        "totalLiquidityUSD": "5611119310.048501826987237223895",
+        "totalTransactions": "187391742"
+      },
+      {
+        "dailyVolumeUSD": "718470163.060319223132324224427",
+        "date": 1628726400,
+        "totalLiquidityUSD": "5303812441.249507371915361344174",
+        "totalTransactions": "186082810"
+      },
+      {
+        "dailyVolumeUSD": "929003110.21639703488211399111",
+        "date": 1628640000,
+        "totalLiquidityUSD": "5387274691.382382569246548453886",
+        "totalTransactions": "184668077"
+      },
+      {
+        "dailyVolumeUSD": "626422792.20869923643756233697",
+        "date": 1628553600,
+        "totalLiquidityUSD": "5312349191.43863417503930847209",
+        "totalTransactions": "183085497"
+      },
+      {
+        "dailyVolumeUSD": "545391276.692492220331002113758",
+        "date": 1628467200,
+        "totalLiquidityUSD": "5175172502.69665646327271833588",
+        "totalTransactions": "181720421"
+      },
+      {
+        "dailyVolumeUSD": "523012504.1334419433151451766356",
+        "date": 1628380800,
+        "totalLiquidityUSD": "5130407618.2530848503013428227",
+        "totalTransactions": "180411585"
+      },
+      {
+        "dailyVolumeUSD": "571772223.783157112013537609055",
+        "date": 1628294400,
+        "totalLiquidityUSD": "5242843458.69582845135781781695",
+        "totalTransactions": "179161957"
+      },
+      {
+        "dailyVolumeUSD": "531048224.6464898442451737556478",
+        "date": 1628208000,
+        "totalLiquidityUSD": "5098336290.51586024613989756564",
+        "totalTransactions": "177853173"
+      },
+      {
+        "dailyVolumeUSD": "590348168.612797638504798171138",
+        "date": 1628121600,
+        "totalLiquidityUSD": "4948753054.23076586465663953815",
+        "totalTransactions": "176497132"
+      },
+      {
+        "dailyVolumeUSD": "612996936.299608785364206985408",
+        "date": 1628035200,
+        "totalLiquidityUSD": "4899516455.22325992516229604516",
+        "totalTransactions": "175142732"
+      },
+      {
+        "dailyVolumeUSD": "513873551.904771223754990090159",
+        "date": 1627948800,
+        "totalLiquidityUSD": "4729843144.908302961167620550196",
+        "totalTransactions": "173717653"
+      },
+      {
+        "dailyVolumeUSD": "551579761.014047725395045730239",
+        "date": 1627862400,
+        "totalLiquidityUSD": "4766562234.36893470754640130214",
+        "totalTransactions": "172387931"
+      },
+      {
+        "dailyVolumeUSD": "638912203.011673341471932459552",
+        "date": 1627776000,
+        "totalLiquidityUSD": "4781573637.57362493060061911029",
+        "totalTransactions": "171063186"
+      },
+      {
+        "dailyVolumeUSD": "554342245.27643624727559313752",
+        "date": 1627689600,
+        "totalLiquidityUSD": "4803746128.69586211796202925835",
+        "totalTransactions": "169671643"
+      },
+      {
+        "dailyVolumeUSD": "621632675.429506092125363630391",
+        "date": 1627603200,
+        "totalLiquidityUSD": "4732458157.1480363578631223898",
+        "totalTransactions": "168295803"
+      },
+      {
+        "dailyVolumeUSD": "612620736.086224776750791789829",
+        "date": 1627516800,
+        "totalLiquidityUSD": "4676517043.6716111561020908858",
+        "totalTransactions": "166753647"
+      },
+      {
+        "dailyVolumeUSD": "778780028.248732355487287190121",
+        "date": 1627430400,
+        "totalLiquidityUSD": "4663548221.84622994255119064626",
+        "totalTransactions": "165363718"
+      },
+      {
+        "dailyVolumeUSD": "666756421.361941109404108862081",
+        "date": 1627344000,
+        "totalLiquidityUSD": "4654095961.280436732274909515555",
+        "totalTransactions": "163945272"
+      },
+      {
+        "dailyVolumeUSD": "849847984.473148363590944511843",
+        "date": 1627257600,
+        "totalLiquidityUSD": "4560193411.86109482337827530747",
+        "totalTransactions": "162456946"
+      },
+      {
+        "dailyVolumeUSD": "552813232.742442170732357588773",
+        "date": 1627171200,
+        "totalLiquidityUSD": "4483816416.451844860241782790636",
+        "totalTransactions": "160827271"
+      },
+      {
+        "dailyVolumeUSD": "619088445.09092990919369106166",
+        "date": 1627084800,
+        "totalLiquidityUSD": "4285340583.680451398547420073637",
+        "totalTransactions": "159308546"
+      },
+      {
+        "dailyVolumeUSD": "550746707.187292418777247545964",
+        "date": 1626998400,
+        "totalLiquidityUSD": "4009792071.175258792888042573446",
+        "totalTransactions": "157516273"
+      },
+      {
+        "dailyVolumeUSD": "491079622.4266094853073213668526",
+        "date": 1626912000,
+        "totalLiquidityUSD": "3747783884.96563093252532896641",
+        "totalTransactions": "155675995"
+      },
+      {
+        "dailyVolumeUSD": "485059590.5511188348065936576336",
+        "date": 1626825600,
+        "totalLiquidityUSD": "3698287335.765050957477212123215",
+        "totalTransactions": "154134091"
+      },
+      {
+        "dailyVolumeUSD": "546383075.732886100609592624238",
+        "date": 1626739200,
+        "totalLiquidityUSD": "3478307053.652365499903296433588",
+        "totalTransactions": "152836494"
+      },
+      {
+        "dailyVolumeUSD": "509583974.9775378226286917949025",
+        "date": 1626652800,
+        "totalLiquidityUSD": "3541850639.313616131293732274452",
+        "totalTransactions": "151567820"
+      },
+      {
+        "dailyVolumeUSD": "357579652.98284596260176257529",
+        "date": 1626566400,
+        "totalLiquidityUSD": "3768926907.461073012746789326385",
+        "totalTransactions": "150294100"
+      },
+      {
+        "dailyVolumeUSD": "364065207.816900264323779642473",
+        "date": 1626480000,
+        "totalLiquidityUSD": "3737734152.33815275647363162933",
+        "totalTransactions": "149100977"
+      },
+      {
+        "dailyVolumeUSD": "504023883.533063084899615450616",
+        "date": 1626393600,
+        "totalLiquidityUSD": "3777895933.863442795023509270898",
+        "totalTransactions": "148005549"
+      },
+      {
+        "dailyVolumeUSD": "660463099.12398655734432682782",
+        "date": 1626307200,
+        "totalLiquidityUSD": "3943677480.790176122597653066442",
+        "totalTransactions": "146841225"
+      },
+      {
+        "dailyVolumeUSD": "567735259.1731020074764176652914",
+        "date": 1626220800,
+        "totalLiquidityUSD": "4340422536.84928425493800316918",
+        "totalTransactions": "145506543"
+      },
+      {
+        "dailyVolumeUSD": "400022183.2429366604888238698376",
+        "date": 1626134400,
+        "totalLiquidityUSD": "4344492210.81861382308485303386",
+        "totalTransactions": "144278693"
+      },
+      {
+        "dailyVolumeUSD": "468741442.339104251206615088427",
+        "date": 1626048000,
+        "totalLiquidityUSD": "4412966421.47485233612305352362",
+        "totalTransactions": "143037112"
+      },
+      {
+        "dailyVolumeUSD": "369980296.1403309002100611017565",
+        "date": 1625961600,
+        "totalLiquidityUSD": "4371452588.375764534243823182905",
+        "totalTransactions": "141750477"
+      },
+      {
+        "dailyVolumeUSD": "386996355.42664865244905414629",
+        "date": 1625875200,
+        "totalLiquidityUSD": "4313859959.834646451310217378866",
+        "totalTransactions": "140510591"
+      },
+      {
+        "dailyVolumeUSD": "463013528.046945195979413014337",
+        "date": 1625788800,
+        "totalLiquidityUSD": "4296645600.64972218536097950956",
+        "totalTransactions": "139306424"
+      },
+      {
+        "dailyVolumeUSD": "511556540.111174071748981419455",
+        "date": 1625702400,
+        "totalLiquidityUSD": "4145229151.28167370961909297586",
+        "totalTransactions": "138022433"
+      },
+      {
+        "dailyVolumeUSD": "579834106.418186775234068862072",
+        "date": 1625616000,
+        "totalLiquidityUSD": "4322078038.34680164465820486299",
+        "totalTransactions": "136695560"
+      },
+      {
+        "dailyVolumeUSD": "702972547.938446202617807592936",
+        "date": 1625529600,
+        "totalLiquidityUSD": "4293487306.679737889552980163685",
+        "totalTransactions": "135282146"
+      },
+      {
+        "dailyVolumeUSD": "526174788.2491767413826069873093",
+        "date": 1625443200,
+        "totalLiquidityUSD": "4115949694.290352136969620394314",
+        "totalTransactions": "133579525"
+      },
+      {
+        "dailyVolumeUSD": "556963439.126468669148823277869",
+        "date": 1625356800,
+        "totalLiquidityUSD": "4157967221.403867346855335146287",
+        "totalTransactions": "131994950"
+      },
+      {
+        "dailyVolumeUSD": "341697136.499998063843833176132",
+        "date": 1625270400,
+        "totalLiquidityUSD": "3998412490.396486056945349333147",
+        "totalTransactions": "130412811"
+      },
+      {
+        "dailyVolumeUSD": "363645682.526674764012096541796",
+        "date": 1625184000,
+        "totalLiquidityUSD": "3844877359.042592454354515288436",
+        "totalTransactions": "129240738"
+      },
+      {
+        "dailyVolumeUSD": "463446421.1939528987313285921675",
+        "date": 1625097600,
+        "totalLiquidityUSD": "3813023414.86656496662528192125",
+        "totalTransactions": "128036691"
+      },
+      {
+        "dailyVolumeUSD": "402055671.194290400033863417128",
+        "date": 1625011200,
+        "totalLiquidityUSD": "3938112690.883859575999670261642",
+        "totalTransactions": "126577305"
+      },
+      {
+        "dailyVolumeUSD": "461283222.2431959219700078967993",
+        "date": 1624924800,
+        "totalLiquidityUSD": "3909441510.161769864740038017046",
+        "totalTransactions": "125410108"
+      },
+      {
+        "dailyVolumeUSD": "412518775.7280435445732517535088",
+        "date": 1624838400,
+        "totalLiquidityUSD": "3818507462.55637239810692736655",
+        "totalTransactions": "124086342"
+      },
+      {
+        "dailyVolumeUSD": "352874745.9335243143913753433503",
+        "date": 1624752000,
+        "totalLiquidityUSD": "3681211498.90999408218084582284",
+        "totalTransactions": "122775507"
+      },
+      {
+        "dailyVolumeUSD": "421946042.162665661817278233061",
+        "date": 1624665600,
+        "totalLiquidityUSD": "3546744007.60099562022886605768",
+        "totalTransactions": "121389504"
+      },
+      {
+        "dailyVolumeUSD": "587796779.826646203198407102239",
+        "date": 1624579200,
+        "totalLiquidityUSD": "3527730409.647014017129211229924",
+        "totalTransactions": "120069104"
+      },
+      {
+        "dailyVolumeUSD": "532682979.157135282699051336348",
+        "date": 1624492800,
+        "totalLiquidityUSD": "3711399799.765111760105369578258",
+        "totalTransactions": "118461240"
+      },
+      {
+        "dailyVolumeUSD": "611823014.31899049355292566012",
+        "date": 1624406400,
+        "totalLiquidityUSD": "3573471652.37882908194161088034",
+        "totalTransactions": "117072422"
+      },
+      {
+        "dailyVolumeUSD": "1211695592.845602026120391513766",
+        "date": 1624320000,
+        "totalLiquidityUSD": "3181821719.594721899613089006534",
+        "totalTransactions": "115789718"
+      },
+      {
+        "dailyVolumeUSD": "944699842.413629174479996076654",
+        "date": 1624233600,
+        "totalLiquidityUSD": "3489429498.444405943056818894993",
+        "totalTransactions": "114391410"
+      },
+      {
+        "dailyVolumeUSD": "479219596.7494805990632602522484",
+        "date": 1624147200,
+        "totalLiquidityUSD": "4121875852.23840179617168895126",
+        "totalTransactions": "112937418"
+      },
+      {
+        "dailyVolumeUSD": "410398073.641705855393929892663",
+        "date": 1624060800,
+        "totalLiquidityUSD": "4058540362.484730163501491407392",
+        "totalTransactions": "111623981"
+      },
+      {
+        "dailyVolumeUSD": "547792029.733194643505918328198",
+        "date": 1623974400,
+        "totalLiquidityUSD": "4035278927.95589505524105468408",
+        "totalTransactions": "110186200"
+      },
+      {
+        "dailyVolumeUSD": "548449241.446379337178110950059",
+        "date": 1623888000,
+        "totalLiquidityUSD": "4151293071.573880397032977555256",
+        "totalTransactions": "108636932"
+      },
+      {
+        "dailyVolumeUSD": "589481920.088107240470303012854",
+        "date": 1623801600,
+        "totalLiquidityUSD": "4023020582.054313062753330209812",
+        "totalTransactions": "107004362"
+      },
+      {
+        "dailyVolumeUSD": "558345299.792470640810427425791",
+        "date": 1623715200,
+        "totalLiquidityUSD": "4275282121.870806802675445596107",
+        "totalTransactions": "105387396"
+      },
+      {
+        "dailyVolumeUSD": "598390916.080727062091923403656",
+        "date": 1623628800,
+        "totalLiquidityUSD": "4287632800.66773001497242775296",
+        "totalTransactions": "103837687"
+      },
+      {
+        "dailyVolumeUSD": "522772374.9351755917779984597796",
+        "date": 1623542400,
+        "totalLiquidityUSD": "4222396366.806333544974468735593",
+        "totalTransactions": "102389493"
+      },
+      {
+        "dailyVolumeUSD": "596334595.498252691302848251892",
+        "date": 1623456000,
+        "totalLiquidityUSD": "4063003713.519053939403494508197",
+        "totalTransactions": "100907511"
+      },
+      {
+        "dailyVolumeUSD": "621665245.601706287309005322042",
+        "date": 1623369600,
+        "totalLiquidityUSD": "4053222290.31299750778873226337",
+        "totalTransactions": "99476716"
+      },
+      {
+        "dailyVolumeUSD": "621523311.900922914394658723435",
+        "date": 1623283200,
+        "totalLiquidityUSD": "4004433541.883963995158830158453",
+        "totalTransactions": "97814175"
+      },
+      {
+        "dailyVolumeUSD": "649235732.5446487394185329231115",
+        "date": 1623196800,
+        "totalLiquidityUSD": "4075538381.191105249367623887718",
+        "totalTransactions": "96211057"
+      },
+      {
+        "dailyVolumeUSD": "888690463.8375862759607480124736",
+        "date": 1623110400,
+        "totalLiquidityUSD": "3814132882.786341352398557710226",
+        "totalTransactions": "94599021"
+      },
+      {
+        "dailyVolumeUSD": "762940634.201918307103350621948",
+        "date": 1623024000,
+        "totalLiquidityUSD": "3815788580.517678919788649340187",
+        "totalTransactions": "92934423"
+      },
+      {
+        "dailyVolumeUSD": "530502539.1412475401687954284764",
+        "date": 1622937600,
+        "totalLiquidityUSD": "3976251625.842590327059503136046",
+        "totalTransactions": "91131394"
+      },
+      {
+        "dailyVolumeUSD": "802812550.92772194912621489655",
+        "date": 1622851200,
+        "totalLiquidityUSD": "3922395813.259416773471732715197",
+        "totalTransactions": "89480394"
+      },
+      {
+        "dailyVolumeUSD": "988566822.894374131366964736841",
+        "date": 1622764800,
+        "totalLiquidityUSD": "3941875556.022636505680544410185",
+        "totalTransactions": "87717807"
+      },
+      {
+        "dailyVolumeUSD": "792601964.226585508203226481995",
+        "date": 1622678400,
+        "totalLiquidityUSD": "4149219813.340847926958100435725",
+        "totalTransactions": "85896991"
+      },
+      {
+        "dailyVolumeUSD": "921547973.08545671239918920939",
+        "date": 1622592000,
+        "totalLiquidityUSD": "3871908727.479190762807734084446",
+        "totalTransactions": "83978619"
+      },
+      {
+        "dailyVolumeUSD": "833270564.7418870675448967616",
+        "date": 1622505600,
+        "totalLiquidityUSD": "3703090662.786339460613155293072",
+        "totalTransactions": "81965398"
+      },
+      {
+        "dailyVolumeUSD": "763253830.148523074077722907923",
+        "date": 1622419200,
+        "totalLiquidityUSD": "3612732243.719291166260638720857",
+        "totalTransactions": "79960652"
+      },
+      {
+        "dailyVolumeUSD": "711414165.978642973176366857053",
+        "date": 1622332800,
+        "totalLiquidityUSD": "3286565057.698206744701930307217",
+        "totalTransactions": "78252727"
+      },
+      {
+        "dailyVolumeUSD": "4517589134.45987982225613522024",
+        "date": 1622246400,
+        "totalLiquidityUSD": "3109677603.57161370627914494574",
+        "totalTransactions": "76543315"
+      },
+      {
+        "dailyVolumeUSD": "1114724860.859539675475730493603",
+        "date": 1622160000,
+        "totalLiquidityUSD": "3310033156.69292012863257769615",
+        "totalTransactions": "74851938"
+      },
+      {
+        "dailyVolumeUSD": "1258155413.688730759264587093932",
+        "date": 1622073600,
+        "totalLiquidityUSD": "3618346262.994423201610149392683",
+        "totalTransactions": "72914169"
+      },
+      {
+        "dailyVolumeUSD": "1164522376.790669213150805980639",
+        "date": 1621987200,
+        "totalLiquidityUSD": "3608688291.667691712181565487868",
+        "totalTransactions": "70845821"
+      },
+      {
+        "dailyVolumeUSD": "1380961126.061658884026718038042",
+        "date": 1621900800,
+        "totalLiquidityUSD": "3276174584.234416724119465753214",
+        "totalTransactions": "68965630"
+      },
+      {
+        "dailyVolumeUSD": "1639246791.722483227996792171429",
+        "date": 1621814400,
+        "totalLiquidityUSD": "3253018907.490986889712664167444",
+        "totalTransactions": "67147555"
+      },
+      {
+        "dailyVolumeUSD": "2032367544.829862272954927303915",
+        "date": 1621728000,
+        "totalLiquidityUSD": "2562313961.052892682150641312776",
+        "totalTransactions": "65446576"
+      },
+      {
+        "dailyVolumeUSD": "1400699583.629985321011027606677",
+        "date": 1621641600,
+        "totalLiquidityUSD": "2981179415.343296424611683466222",
+        "totalTransactions": "63666557"
+      },
+      {
+        "dailyVolumeUSD": "3108934300.924980408784707677295",
+        "date": 1621555200,
+        "totalLiquidityUSD": "3174232538.31278609573591310276",
+        "totalTransactions": "62040005"
+      },
+      {
+        "dailyVolumeUSD": "4831440482.43502646586975278792",
+        "date": 1621468800,
+        "totalLiquidityUSD": "3710169777.89675088700776321443",
+        "totalTransactions": "59678937"
+      },
+      {
+        "dailyVolumeUSD": "6665597090.13687125123833213921",
+        "date": 1621382400,
+        "totalLiquidityUSD": "3431931922.5442528851710152914",
+        "totalTransactions": "56949866"
+      },
+      {
+        "dailyVolumeUSD": "2229850385.40098502378759964521",
+        "date": 1621296000,
+        "totalLiquidityUSD": "5721825183.47808230042977940969",
+        "totalTransactions": "54405382"
+      },
+      {
+        "dailyVolumeUSD": "2138787892.645779399523624819332",
+        "date": 1621209600,
+        "totalLiquidityUSD": "5661676696.89655776509139776403",
+        "totalTransactions": "51493091"
+      },
+      {
+        "dailyVolumeUSD": "1826568165.406117819749922732495",
+        "date": 1621123200,
+        "totalLiquidityUSD": "6176904248.57172749583565375503",
+        "totalTransactions": "48636957"
+      },
+      {
+        "dailyVolumeUSD": "2082604491.713448513797578700244",
+        "date": 1621036800,
+        "totalLiquidityUSD": "6387431068.353562061273060602416",
+        "totalTransactions": "45397899"
+      },
+      {
+        "dailyVolumeUSD": "1916813975.32203519499648991165",
+        "date": 1620950400,
+        "totalLiquidityUSD": "6808022997.5928074254912436819",
+        "totalTransactions": "41681501"
+      },
+      {
+        "dailyVolumeUSD": "2888566669.57317372886231845755",
+        "date": 1620864000,
+        "totalLiquidityUSD": "6289665632.82029336298888649993",
+        "totalTransactions": "38127759"
+      },
+      {
+        "dailyVolumeUSD": "2523572807.16675785561555991444",
+        "date": 1620777600,
+        "totalLiquidityUSD": "6643140247.1920322980976567797",
+        "totalTransactions": "35107785"
+      },
+      {
+        "dailyVolumeUSD": "2197810148.069793799497044847274",
+        "date": 1620691200,
+        "totalLiquidityUSD": "7424599435.177763502338032134626",
+        "totalTransactions": "31679485"
+      },
+      {
+        "dailyVolumeUSD": "1790858604.344857216211325410687",
+        "date": 1620604800,
+        "totalLiquidityUSD": "7101439335.10076945391096197723",
+        "totalTransactions": "28284165"
+      },
+      {
+        "dailyVolumeUSD": "1558644095.130158226661724400166",
+        "date": 1620518400,
+        "totalLiquidityUSD": "7502775802.11888314253453522473",
+        "totalTransactions": "25943951"
+      },
+      {
+        "dailyVolumeUSD": "1330209284.348513106539999844858",
+        "date": 1620432000,
+        "totalLiquidityUSD": "7482309275.2927289983099786333",
+        "totalTransactions": "23459598"
+      },
+      {
+        "dailyVolumeUSD": "3620668823.41038786401469471943",
+        "date": 1620345600,
+        "totalLiquidityUSD": "7348406112.75309296836969455443",
+        "totalTransactions": "21433759"
+      },
+      {
+        "dailyVolumeUSD": "1409049483.102773587798401425936",
+        "date": 1620259200,
+        "totalLiquidityUSD": "7436730852.67364907091908349868",
+        "totalTransactions": "19555174"
+      },
+      {
+        "dailyVolumeUSD": "1197486137.62195405414950262052",
+        "date": 1620172800,
+        "totalLiquidityUSD": "7653748774.73630919662199691018",
+        "totalTransactions": "17826673"
+      },
+      {
+        "dailyVolumeUSD": "1639196065.718455328213242142234",
+        "date": 1620086400,
+        "totalLiquidityUSD": "7149978761.19479724690782165575",
+        "totalTransactions": "16120980"
+      },
+      {
+        "dailyVolumeUSD": "1586355244.899642650942695054975",
+        "date": 1620000000,
+        "totalLiquidityUSD": "7793713712.930163922619165877444",
+        "totalTransactions": "14510073"
+      },
+      {
+        "dailyVolumeUSD": "1316611011.257801287864191431266",
+        "date": 1619913600,
+        "totalLiquidityUSD": "7222650264.60149260472451682463",
+        "totalTransactions": "12719318"
+      },
+      {
+        "dailyVolumeUSD": "1367977755.977459528632872763931",
+        "date": 1619827200,
+        "totalLiquidityUSD": "7083752468.106382985386443201804",
+        "totalTransactions": "11078299"
+      },
+      {
+        "dailyVolumeUSD": "1405434907.846528222275607765744",
+        "date": 1619740800,
+        "totalLiquidityUSD": "6834232934.14318666055777203952",
+        "totalTransactions": "9535027"
+      },
+      {
+        "dailyVolumeUSD": "1612022394.802442222725750208474",
+        "date": 1619654400,
+        "totalLiquidityUSD": "6523883061.111750558011081675805",
+        "totalTransactions": "8052636"
+      },
+      {
+        "dailyVolumeUSD": "1037394032.133842607232779698448",
+        "date": 1619568000,
+        "totalLiquidityUSD": "5952244416.32862086820253449418",
+        "totalTransactions": "6713228"
+      },
+      {
+        "dailyVolumeUSD": "1338171434.665026791141287540397",
+        "date": 1619481600,
+        "totalLiquidityUSD": "5811264230.09655431313300036764",
+        "totalTransactions": "5319271"
+      },
+      {
+        "dailyVolumeUSD": "1150560328.493771846050314083126",
+        "date": 1619395200,
+        "totalLiquidityUSD": "5058704763.076949408411410357426",
+        "totalTransactions": "3860153"
+      },
+      {
+        "dailyVolumeUSD": "843048628.607975959309675480549",
+        "date": 1619308800,
+        "totalLiquidityUSD": "4208199758.35714659147741377397",
+        "totalTransactions": "2302580"
+      },
+      {
+        "dailyVolumeUSD": "503546527.107051691842070882083",
+        "date": 1619222400,
+        "totalLiquidityUSD": "3109748611.966476305391824770147",
+        "totalTransactions": "996121"
+      },
+      {
+        "dailyVolumeUSD": "4.69477852754199201",
+        "date": 1619136000,
+        "totalLiquidityUSD": "599.46044294491603875",
+        "totalTransactions": "122"
+      }
+    ]
+  }
+}

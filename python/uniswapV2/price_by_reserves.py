@@ -45,10 +45,6 @@ def watch_sync():
 def main():
     token0reserve, token1reserve, _ = pair_contract.functions.getReserves().call()
     print(token0reserve, token1reserve)
-    # temp = token0reserve/token1reserve
-    # print(temp)
-    # result = temp - 0.3/100*temp
-    # print(result)
     token0reserve = float(token0reserve)/(10**18)
     token1reserve = float(token1reserve)/(10**18)
     constant_product = token0reserve*token1reserve
