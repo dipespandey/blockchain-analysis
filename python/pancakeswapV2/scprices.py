@@ -8,7 +8,6 @@ from sqlalchemy.orm import Session
 from web3.contract import Contract
 from db import database, dbutils
 
-
 infura_url = 'https://bsc-dataseed.binance.org/'
 web3 = Web3(Web3.HTTPProvider(infura_url))
 
@@ -35,11 +34,11 @@ def handle_event(event, session):
         pathtosell = contract.functions.getAmountsOut(onetoken, [ETH_ADDR, USDT_ADDR]).call()
         amount = web3.fromWei(int(pathtosell[1]), 'ether') * decimal.Decimal(10E11)
         ts = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
-        # all_prices = dbutils.get_all_prices(session)
-        # if ts not in [i.ts for i in all_prices if i.source == 'Uniswap']:
-        #     dbutils.write_price_row(session, {'price': str(round(amount, 2)), 'exchange': 'PancakeSwap', 
-            # 'source': 'smart contract', 'ts': str(ts)})
-        with open('prices.csv', 'a') as f:
+        all_prices = dbutils.get_all_prices(session)
+        if ts not in [i.ts for i in all_prices if i.source == 'Pancakeswap']:
+            dbutils.write_price_row(session, {'price': str(round(amount, 2)), 'exchange': 'Pancakeswap', 
+            'source': 'smart contract', 'ts': str(ts)})
+        with open('pricesnew.csv', 'a') as f:
             f.write(f"\n{str(round(amount, 2))},{ts},Pancakeswap,smart contract")
     except Exception as e:
         print(e)
@@ -57,5 +56,5 @@ def main(session):
     log_loop(block_filter, 2, session)
 
 if __name__ == '__main__':
-    # session = database.create_connection()
-    main(None)
+    session = database.create_connection()
+    main(session)

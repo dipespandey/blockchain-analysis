@@ -1,5 +1,6 @@
 # import the following dependencies
 import json
+import time
 from web3 import Web3
 from web3.contract import Contract
 import asyncio
@@ -22,10 +23,12 @@ contract: Contract = web3.eth.contract(address=web3.toChecksumAddress(uniswap_ro
 
 
 def get_txns_by_account(router_addr):
-    start = 10008555
-    end = 13807579
+    start = 11000000
+    end = 12001000
     count = 0
-    for i in range(start, start+100):
+    start_time = time.time()
+    for i in range(start, end):
+        print(i)
         block = web3.eth.getBlock(i)
         if block is not None and block.transactions is not None:
             for j in block.transactions:
@@ -36,7 +39,10 @@ def get_txns_by_account(router_addr):
                     with open('txns.txt', 'a') as f:
                         f.write(f'\n{txn}')
             count += len(block.transactions)
-    
+            if count >= 10000:
+                break
+    print('total time:', time.time() - start_time)
+    print(count)
 
 if __name__ == "__main__":
     get_txns_by_account('0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D') #uniswap V2 router

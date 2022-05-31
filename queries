@@ -1,0 +1,54 @@
+query{
+  pairs(first:120, where:{timestamp_gt:1653040552, timestamp_lt:1653046706, volumeUSD:"0"}){
+  block
+  token0{symbol tradeVolumeUSD totalTransactions totalLiquidity }
+  token1{symbol tradeVolumeUSD totalTransactions totalLiquidity}
+  totalTransactions
+  volumeUSD
+}
+}
+
+
+{
+  tokenDayDatas(where: 
+    {token: "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9"}, 
+    first:365, orderBy:date, orderDirection:desc){
+    token{symbol}
+    date
+    dailyVolumeUSD
+    dailyTxns
+    priceUSD
+  }
+}
+
+
+{
+  tokens(first:20, orderBy: txCount, orderDirection:desc){
+    symbol
+    tradeVolumeUSD
+    txCount
+    totalLiquidity
+  }
+}
+
+
+{
+  tokenDayDatas(where: {token: "0xdac17f958d2ee523a2206206994597c13d831ec7"}, first:365, orderBy:date, orderDirection:desc){
+    token{symbol}
+    date
+    dailyVolumeUSD
+    dailyTxns
+    priceUSD
+  }
+}
+
+
+{
+  tokenDayDatas(where: {token: "0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2"}, first:365, orderBy:date, orderDirection:desc){
+    token{symbol}
+    date
+    dailyVolumeUSD
+    dailyTxns
+    priceUSD
+  }
+}

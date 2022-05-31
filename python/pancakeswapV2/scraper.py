@@ -66,11 +66,11 @@ async def main(session, start, end):
             output = await page.xpath(outputField)
             new = await output[0].getProperty('value')
             newval = new._remoteObject.get('value')
-            # all_prices = dbutils.get_all_prices(session)
+            all_prices = dbutils.get_all_prices(session)
             ts = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
-            # if ts not in [i.ts for i in all_prices if i.source == 'Pancakeswap']:
-                # dbutils.write_price_row(session, {'price': str(newval), 'ts': str(ts), 
-                # 'exchange': 'Pancakeswap', 'source': 'scraper'})
+            if ts not in [i.ts for i in all_prices if i.source == 'Pancakeswap']:
+                dbutils.write_price_row(session, {'price': str(newval), 'ts': str(ts), 
+                'exchange': 'Pancakeswap', 'source': 'scraper'})
             with open('prices.csv', 'a') as f:
                 f.write(f"\n{str(newval)},{ts},Pancakeswap,scraper")
             time.sleep(10000)

@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "18",
+    "derivedETH": "1",
+    "tradeVolumeUSD": "413059702069.6413779727165254755179",
+    "totalLiquidity": "339589.750015246371556266",
+    "txCount": "72971558",
+    "totalSupply": "15640"
+  },
+  {
+    "name": "BEARLON",
+    "symbol": "BEARLON",
+    "decimals": "9",
+    "derivedETH": "0.000000003991103809715183157432297512610189",
+    "tradeVolumeUSD": "1",
+    "totalLiquidity": "848427510.038367823",
+    "txCount": "196",
+    "totalSupply": "14448"
+  },
+  {
+    "name": "Baby Akihiko Inu",
+    "symbol": "BABYAKIHIKO",
+    "decimals": "9",
+    "derivedETH": "0.000000000000000000000000003171050278521397085836117163267799",
+    "tradeVolumeUSD": "1",
+    "totalLiquidity": "950000659722012904797.769246974",
+    "txCount": "23",
+    "totalSupply": "40832"
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "18",
+    "derivedETH": "1",
+    "tradeVolumeUSD": "413059702069.6413779727165254755179",
+    "totalLiquidity": "339589.750015246371556266",
+    "txCount": "72971558",
+    "totalSupply": "15640"
+  },
+  {
+    "name": "AIElon",
+    "symbol": "AIElon",
+    "decimals": "9",
+    "derivedETH": "0.000000002148720588814373092900541256305583",
+    "tradeVolumeUSD": "1",
+    "totalLiquidity": "962600912.299769174",
+    "txCount": "106",
+    "totalSupply": "14448"
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "18",
+    "derivedETH": "1",
+    "tradeVolumeUSD": "413059702069.6413779727165254755179",
+    "totalLiquidity": "339589.750015246371556266",
+    "txCount": "72971558",
+    "totalSupply": "15640"
+  },
+  {
+    "name": "ElonaGate",
+    "symbol": "ELONAGATE",
+    "decimals": "18",
+    "derivedETH": "0",
+    "tradeVolumeUSD": "1",
+    "totalLiquidity": "944841.502088964911288199",
+    "txCount": "36",
+    "totalSupply": "57216"
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "18",
+    "derivedETH": "1",
+    "tradeVolumeUSD": "413059702069.6413779727165254755179",
+    "totalLiquidity": "339589.750015246371556266",
+    "txCount": "72971558",
+    "totalSupply": "15640"
+  },
+  {
+    "name": "Community Australian Safe Shepherd",
+    "symbol": "CASS",
+    "decimals": "18",
+    "derivedETH": "0.0000007668258500610541064466605120646439",
+    "tradeVolumeUSD": "1",
+    "totalLiquidity": "4906799.143953409861903698",
+    "txCount": "922",
+    "totalSupply": "57216"
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "18",
+    "derivedETH": "1",
+    "tradeVolumeUSD": "413059702069.6413779727165254755179",
+    "totalLiquidity": "339589.750015246371556266",
+    "txCount": "72971558",
+    "totalSupply": "15640"
+  },
+  {
+    "name": "Huri Inu",
+    "symbol": "HURI",
+    "decimals": "18",
+    "derivedETH": "0",
+    "tradeVolumeUSD": "1",
+    "totalLiquidity": "0.000000000071893019",
+    "txCount": "6",
+    "totalSupply": "14448"
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "18",
+    "derivedETH": "1",
+    "tradeVolumeUSD": "413059702069.6413779727165254755179",
+    "totalLiquidity": "339589.750015246371556266",
+    "txCount": "72971558",
+    "totalSupply": "15640"
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "18",
+    "derivedETH": "1",
+    "tradeVolumeUSD": "413059702069.6413779727165254755179",
+    "totalLiquidity": "339589.750015246371556266",
+    "txCount": "72971558",
+    "totalSupply": "15640"
+  },
+  {
+    "name": "Adam And Eve",
+    "symbol": "EDEN",
+    "decimals": "18",
+    "derivedETH": "0",
+    "tradeVolumeUSD": "1",
+    "totalLiquidity": "20466669.525394907726439279",
+    "txCount": "60",
+    "totalSupply": "40832"
+  },
+  {
+    "name": "Alpha",
+    "symbol": "Alpha",
+    "decimals": "9",
+    "derivedETH": "0.0000000002809868621137286161724584932460367",
+    "tradeVolumeUSD": "1",
+    "totalLiquidity": "8884373033.426363715",
+    "txCount": "290",
+    "totalSupply": "14448"
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "18",
+    "derivedETH": "1",
+    "tradeVolumeUSD": "413059702069.6413779727165254755179",
+    "totalLiquidity": "339589.750015246371556266",
+    "txCount": "72971558",
+    "totalSupply": "15640"
+  },
+  {
+    "name": "Sanada Inu",
+    "symbol": "SANADAINU",
+    "decimals": "18",
+    "derivedETH": "0",
+    "tradeVolumeUSD": "1",
+    "totalLiquidity": "0.000000000001118034",
+    "txCount": "2",
+    "totalSupply": "40832"
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "decimals": "18",
+    "derivedETH": "1",
+    "tradeVolumeUSD": "413059702069.6413779727165254755179",
+    "totalLiquidity": "339589.750015246371556266",
+    "txCount": "72971558",
+    "totalSupply": "15640"
+  }
+]

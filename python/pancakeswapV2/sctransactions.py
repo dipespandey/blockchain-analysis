@@ -5,7 +5,7 @@ from web3.contract import Contract
 import asyncio
 
 # add your blockchain connection information
-infura_url = ''
+infura_url = 'https://speedy-nodes-nyc.moralis.io/8bddf8c916e361615f5bd7aa/bsc/mainnet/archive'
 web3:Web3 = Web3(Web3.HTTPProvider(infura_url))
 
 PAIR_ADDR = web3.toChecksumAddress("0xa478c2975ab1ea89e8196811f51a7b7ade33eb11")

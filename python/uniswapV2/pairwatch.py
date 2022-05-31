@@ -26,7 +26,7 @@ def handle_event(event):
 
     token1 = token.get_token_info_from_address(pair['args']['token1'])
     ts = datetime.datetime.from_timestamp(ts).replace(tzinfo=datetime.timezone.utc)
-    session: Session = database.create_connection()
+    session = database.create_connection()
     # get token info
     # get txn time
     dbutils.write_pair_row(session, {

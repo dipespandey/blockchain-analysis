@@ -46,14 +46,14 @@ async def main(session, start, end):
             price = await output[0].getProperty('value')
             p = price._remoteObject.get('value')
             await page.waitFor(10000)
-            # all_prices = dbutils.get_all_prices(session)
+            all_prices = dbutils.get_all_prices(session)
             ts = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
-            # if ts not in [i.ts for i in all_prices if i.source == 'Uniswap']:
-                # dbutils.write_price_row(session, {'price': str(p), 'exchange': 'Uniswap', 'source': 'scraper', 'ts': str(ts)})
+            if ts not in [i.ts for i in all_prices if i.source == 'Uniswap']:
+                dbutils.write_price_row(session, {'price': str(p), 'exchange': 'Uniswap', 'source': 'scraper', 'ts': str(ts)})
             with open('prices.csv', 'a') as f:
                 f.write(f"\n{str(p)},{ts},Uniswap,scraper")
             time.sleep(10000)
 
 if __name__ == '__main__':
-    # session = database.create_connection()
+    session = database.create_connection()
     asyncio.get_event_loop().run_until_complete(main(None, '2022-05-23 06:35:00', '2022-06-20 08:35:00'))

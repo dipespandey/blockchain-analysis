@@ -8,7 +8,7 @@ from web3.contract import Contract
 from db import dbutils, database
 
 # add your blockchain connection information
-local_url = 'https://mainnet.infura.io/v3/584fdf9b4a15422fa39b2b0cad4f5197'
+local_url = 'http://eth.dse.ntnu.no:8545'
 web3 = Web3(Web3.HTTPProvider(local_url))
 
 PAIR_ADDR = web3.toChecksumAddress("0xa478c2975ab1ea89e8196811f51a7b7ade33eb11")
@@ -35,12 +35,12 @@ def handle_event(event, session):
         amount = web3.fromWei(int(pathtosell[1]), 'ether') * decimal.Decimal(10E11)
         ts = datetime.datetime.utcnow().replace(tzinfo=datetime.timezone.utc)
         
-        # all_prices = dbutils.get_all_prices(session)
+        all_prices = dbutils.get_all_prices(session)
         print(amount)
-        # if ts not in [i.ts for i in all_prices if i.source == 'Uniswap']:
-            # dbutils.write_price_row(session, {'price': str(round(amount, 2)), 'exchange': 'Uniswap', 
-            # 'source': 'smart contract', 'ts': str(ts)})  
-        with open('prices.csv', 'a') as f:
+        if ts not in [i.ts for i in all_prices if i.source == 'Uniswap']:
+            dbutils.write_price_row(session, {'price': str(round(amount, 2)), 'exchange': 'Uniswap', 
+            'source': 'smart contract', 'ts': str(ts)})  
+        with open('pricesnew.csv', 'a') as f:
             f.write(f"\n{str(round(amount, 2))},{ts},Uniswap,smart contract")
     except Exception as e:
         print(e)
@@ -58,5 +58,5 @@ def main(session):
     log_loop(block_filter, 2, session)
 
 if __name__ == '__main__':
-    # session = database.create_connection()
+    session = database.create_connection()
     main(None)

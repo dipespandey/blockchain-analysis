@@ -1,7 +1,0 @@
-# most liquid pairs
-{
- pairs(first: 1000, orderBy: reserveUSD, orderDirection: desc) {
-   id
- }
-}
-

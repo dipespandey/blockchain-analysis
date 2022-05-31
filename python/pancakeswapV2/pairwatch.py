@@ -33,7 +33,7 @@ def handle_event(event):
     # get txn time
     dbutils.write_pair_row(session, {
         'token0address': pair['args']['token0'], 
-        'token1address': pair['args']['token0'], 
+        'token1address': pair['args']['token1'], 
         'pairaddress': pair['args']['pair'],
         'token0symbol': token0['symbol'],
         'token1symbol': token1['symbol'],

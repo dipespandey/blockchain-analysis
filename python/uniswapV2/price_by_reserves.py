@@ -22,27 +22,8 @@ uniswap_pair_str = open('../abi/IUniswapV2Pair.json')
 uniswap_pair_abi = json.load(uniswap_pair_str)
 pair_contract: Contract = web3.eth.contract(address=PAIR_ADDR, abi=uniswap_pair_abi['abi'])
 
-def handle_event(event):
-    print(Web3.toJSON(event))
-
-async def log_loop(event_filter, poll_interval):
-    while True:
-        for PairCreated in event_filter.get_new_entries():
-            handle_event(PairCreated)
-        await asyncio.sleep(poll_interval)
-
-def watch_sync():
-    event_filter = pair_contract.events.Sync.createFilter(fromBlock='latest')
-    loop = asyncio.get_event_loop()
-    try:
-        loop.run_until_complete(
-            asyncio.gather(
-                log_loop(event_filter, 2)))
-    finally:
-        # close loop to free up system resources
-        loop.close()
-
 def main():
+    
     token0reserve, token1reserve, _ = pair_contract.functions.getReserves().call()
     print(token0reserve, token1reserve)
     token0reserve = float(token0reserve)/(10**18)

@@ -1,0 +1,126 @@
+{
+  "data": {
+    "tokens": [
+      {
+        "symbol": "WETH",
+        "tradeVolumeUSD": "386709580838.9909272915601642154849",
+        "txCount": "72810998",
+        "totalLiquidity": "347745.001780150517921604"
+      },
+      {
+        "symbol": "USDT",
+        "tradeVolumeUSD": "46463279802.56961648906018154233737",
+        "txCount": "6693325",
+        "totalLiquidity": "100286653.932012"
+      },
+      {
+        "symbol": "USDC",
+        "tradeVolumeUSD": "56644607292.22306842685627482423714",
+        "txCount": "6298264",
+        "totalLiquidity": "198102920.882109"
+      },
+      {
+        "symbol": "DAI",
+        "tradeVolumeUSD": "19123653478.09038197396299564213904",
+        "txCount": "2371217",
+        "totalLiquidity": "65881422.948058275421774897"
+      },
+      {
+        "symbol": "SHIB",
+        "tradeVolumeUSD": "8903886611.202904344362115398151227",
+        "txCount": "1339127",
+        "totalLiquidity": "83286395339.742896704092998041"
+      },
+      {
+        "symbol": "SAITAMA",
+        "tradeVolumeUSD": "3464500706.917949439134031328529227",
+        "txCount": "990254",
+        "totalLiquidity": "941516872271159.433694246"
+      },
+      {
+        "symbol": "UNI",
+        "tradeVolumeUSD": "7660758156.431636073651541782427757",
+        "txCount": "809060",
+        "totalLiquidity": "1970342.358214724171652356"
+      },
+      {
+        "symbol": "WBTC",
+        "tradeVolumeUSD": "9306770814.855454154296660357646344",
+        "txCount": "735673",
+        "totalLiquidity": "422.00724351"
+      },
+      {
+        "symbol": "HEX",
+        "tradeVolumeUSD": "3828496045.502456769296449121632956",
+        "txCount": "666336",
+        "totalLiquidity": "12978562.86526104"
+      },
+      {
+        "symbol": "KISHU",
+        "tradeVolumeUSD": "1833254183.752001061331417124426052",
+        "txCount": "537174",
+        "totalLiquidity": "1490668775149237.259992996"
+      },
+      {
+        "symbol": "LINK",
+        "tradeVolumeUSD": "4118430549.139002277497153779336897",
+        "txCount": "430511",
+        "totalLiquidity": "238067.381797098639582336"
+      },
+      {
+        "symbol": "AMPL",
+        "tradeVolumeUSD": "2508022943.141514620914423434705236",
+        "txCount": "420943",
+        "totalLiquidity": "2495641.245858602"
+      },
+      {
+        "symbol": "ELON",
+        "tradeVolumeUSD": "3338380960.573205897511378625177506",
+        "txCount": "379587",
+        "totalLiquidity": "16639279932466.368307410254294737"
+      },
+      {
+        "symbol": "eMax",
+        "tradeVolumeUSD": "773208422.2878687654907024230032973",
+        "txCount": "350990",
+        "totalLiquidity": "29001033541540.457607754101456138"
+      },
+      {
+        "symbol": "STRONG",
+        "tradeVolumeUSD": "1529874375.863406579297587974543013",
+        "txCount": "336977",
+        "totalLiquidity": "35015.060090674837718274"
+      },
+      {
+        "symbol": "YFI",
+        "tradeVolumeUSD": "2520226799.537938490602090717410641",
+        "txCount": "293422",
+        "totalLiquidity": "36.137356692358391179"
+      },
+      {
+        "symbol": "SUSHI",
+        "tradeVolumeUSD": "1646907213.636223781072214395476902",
+        "txCount": "292528",
+        "totalLiquidity": "158432.044239110781625698"
+      },
+      {
+        "symbol": "POLS",
+        "tradeVolumeUSD": "1235490091.285452752953856989650787",
+        "txCount": "272122",
+        "totalLiquidity": "2416949.156058951719426694"
+      },
+      {
+        "symbol": "SAND",
+        "tradeVolumeUSD": "2637508558.590772949386600554809141",
+        "txCount": "262434",
+        "totalLiquidity": "1931362.730021285986369343"
+      },
+      {
+        "symbol": "SWAP",
+        "tradeVolumeUSD": "797129023.857577333582939153860555",
+        "txCount": "243089",
+        "totalLiquidity": "446917.102695333444906318"
+      }
+    ]
+  }
+}
